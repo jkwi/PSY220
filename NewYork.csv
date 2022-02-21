@@ -1,0 +1,51 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US36001,"Albany County, New York",County,38,84.4,2.25,69953,10.5,17.4,6,11.9,2.6,40.8,37.1,42.8,5.6,86.6,0,Medium_High,Lowest
+05000US36005,"Bronx County, New York",County,34.8,80.5,2.66,41432,34.6,37.1,25.2,26.4,7.9,25.7,47.5,53,2.4,81.3,0,Highest,Medium
+05000US36007,"Broome County, New York",County,40,83.7,2.28,52010,16.7,28.4,9.9,18.8,4.3,42.6,33.8,42.8,7.1,84.2,0,Highest,Lowest
+05000US36009,"Cattaraugus County, New York",County,42.5,83.8,2.23,50912,14.6,20.3,11.2,14.5,8.3,46.7,23.6,31.8,9.8,74.9,0,Highest,Medium
+05000US36011,"Cayuga County, New York",County,44,87.7,2.3,58665,15.8,23.9,7.3,14.6,4,42.1,28.2,37.2,7.7,84.7,0,Highest,Lowest
+05000US36013,"Chautauqua County, New York",County,43.1,77.9,2.2,50272,19.8,25.3,9.6,16.4,5.6,42.2,29.9,37.5,8.1,79.9,0,Highest,Lowest
+05000US36015,"Chemung County, New York",County,42.4,78.6,2.36,60782,16,18.9,8.1,13.9,3.4,45,30.7,39.7,9,83.2,0,Highest,Lowest
+05000US36019,"Clinton County, New York",County,40.6,81.7,2.31,60198,17,20.8,5.4,16.5,3.3,43.9,30.9,42.3,7.2,83.4,0,Highest,Lowest
+05000US36027,"Dutchess County, New York",County,42.8,79,2.51,85901,8.2,8.5,8.3,8.3,5.4,50.2,30.7,37.6,4.7,90.8,0,Medium_Low,Lowest
+05000US36029,"Erie County, New York",County,40.3,87.2,2.24,60652,14.5,19.5,9.2,13.3,2.6,40.5,33.4,40.1,6.8,86.2,0,Highest,Lowest
+05000US36045,"Jefferson County, New York",County,32.9,69.1,2.51,53917,19,23.1,12.6,15.5,5,49.5,21.4,38.4,12.7,85.4,0,Highest,Lowest
+05000US36047,"Kings County, New York",County,35.6,76.6,2.57,66937,20.9,24.5,20.6,17.7,6.3,38.6,41.5,45.4,1.7,84.2,0,Highest,Lowest
+05000US36051,"Livingston County, New York",County,41.4,88.5,2.45,59173,12.4,22.1,8.1,15.2,3.5,46.2,32.1,40.3,7.7,86.4,0,Medium_High,Lowest
+05000US36053,"Madison County, New York",County,43.1,85.2,2.52,62918,9.3,8.6,8.6,8.2,3.1,56.8,28.1,34.2,6.3,82.5,0,Medium_Low,Lowest
+05000US36055,"Monroe County, New York",County,39.2,80.2,2.34,62103,14.7,19.4,7.6,12.7,2.7,41.2,35.6,40.7,5.4,86.1,0,Highest,Lowest
+05000US36059,"Nassau County, New York",County,41.9,90.6,2.98,118453,3.9,6.2,6.1,5.4,4.3,59,29.6,34.8,3.8,90.2,0,Lowest,Lowest
+05000US36061,"New York County, New York",County,37.6,60.1,2.04,93651,12.6,15.8,19.2,14,4.5,27.9,49.1,51.8,1.8,88.4,0,Medium_High,Lowest
+05000US36063,"Niagara County, New York",County,43,87.3,2.27,56304,14.8,16.4,10.2,12.5,2.8,42.3,28.9,35.2,7.7,86.1,0,Highest,Lowest
+05000US36065,"Oneida County, New York",County,41.1,86.9,2.4,57391,15,17.6,9.8,14.4,4.7,43.3,30.7,37.9,6.9,85,0,Highest,Lowest
+05000US36067,"Onondaga County, New York",County,39.4,83.4,2.41,61577,12.5,19.1,11,14.1,3.6,42.5,35.7,40.7,6.9,83.5,0,Medium_High,Lowest
+05000US36069,"Ontario County, New York",County,43.8,82.3,2.31,66568,10.7,7.6,5.5,7.7,2.4,44.8,30.2,36.3,6.8,88.3,0,Medium_High,Lowest
+05000US36071,"Orange County, New York",County,36.9,78.1,2.85,84458,9.8,18.6,7.8,12.5,4,54.1,32.2,37.9,6.2,87.8,0,Medium_Low,Lowest
+05000US36075,"Oswego County, New York",County,40.1,89.8,2.41,58459,15,30.2,5.3,16.3,5.1,41.6,28.9,38.4,8.6,87.5,0,Highest,Lowest
+05000US36079,"Putnam County, New York",County,44.1,84.2,2.79,106204,2.7,1.6,4.6,4.1,3,57.3,28.7,35.7,3.4,93.9,0,Lowest,Lowest
+05000US36081,"Queens County, New York",County,39.7,84.1,2.84,73696,12.5,13.4,14.6,10.8,9.3,45.2,35.2,40.5,2.3,86.1,0,Medium_High,Medium
+05000US36083,"Rensselaer County, New York",County,39.7,80.9,2.33,71574,10.6,15.5,7.4,12,2.9,41.8,33,43,7,87,0,Medium_High,Lowest
+05000US36085,"Richmond County, New York",County,40,91.4,2.82,89821,11.9,12.5,8,8.3,4,53.9,30.6,36.4,3.2,83.1,0,Medium_High,Lowest
+05000US36087,"Rockland County, New York",County,35.9,79.4,3.15,100916,9.6,22.2,7.7,12.7,4.4,62.5,28.7,34.4,3.9,86.2,0,Medium_Low,Lowest
+05000US36089,"St. Lawrence County, New York",County,40.1,83.6,2.25,52108,16.9,32.8,9.8,19.9,7,48.4,30,38.6,7.3,80.1,0,Highest,Medium
+05000US36091,"Saratoga County, New York",County,43.2,77.5,2.42,89932,5.1,5.4,3.9,5.4,2.4,53.6,24.6,33.3,8.5,91.9,0,Lowest,Lowest
+05000US36093,"Schenectady County, New York",County,39.2,82.8,2.41,65773,12.9,20.9,6.1,12.4,4.1,40.8,33.3,37.7,6.1,83.1,0,Medium_High,Lowest
+05000US36101,"Steuben County, New York",County,43.3,83,2.39,52951,14.6,23.2,10.2,15.8,5.3,45.8,26,33.4,8.6,84.4,0,Highest,Lowest
+05000US36103,"Suffolk County, New York",County,41.8,89.9,2.9,106228,5.9,9.2,6.3,6.5,4.3,55.3,30.2,35.6,4.9,92.7,0,Lowest,Lowest
+05000US36105,"Sullivan County, New York",County,45.1,78.3,2.48,60137,14.2,27.1,13.1,16,3.9,40,33.7,37.7,6.3,86.2,0,Medium_High,Lowest
+05000US36109,"Tompkins County, New York",County,31.3,61,2.21,58626,8.2,13.9,6.9,17.9,3.7,37.9,47.4,52.7,4.2,86.5,0,Medium_Low,Lowest
+05000US36111,"Ulster County, New York",County,44.3,80.9,2.4,64087,10.1,16.7,8.3,11.9,4.3,45.4,29.3,39.3,5.8,87.4,0,Medium_Low,Lowest
+05000US36113,"Warren County, New York",County,48.1,82.4,2.13,64985,8.7,11.2,7.9,9.7,1.7,47,25.6,28.6,9.8,86.7,0,Medium_Low,Lowest
+05000US36117,"Wayne County, New York",County,44.3,88.8,2.42,61730,11.5,18.8,10.1,12.6,2,49.1,24.6,32.5,7.5,84.9,0,Medium_High,Lowest
+05000US36119,"Westchester County, New York",County,41,79.3,2.66,101908,9.2,9.6,8.8,8.2,4.5,52.4,32.4,34.7,3.5,88.6,0,Medium_Low,Lowest
+16000US3601000,"Albany city, New York",City,30.6,81.7,2.04,49096,17.6,29.5,13,22.6,4.6,24.2,52.7,58,4,85.2,0,Highest,Lowest
+16000US3608026,"Brentwood CDP, New York",City,36.8,86.9,4.41,100785,10.9,4.9,9.6,5.8,10.6,48.5,42.9,44.5,3.9,91.4,0,Medium_High,Highest
+16000US3611000,"Buffalo city, New York",City,32.7,82,2.26,40843,30,43.4,17.1,28.8,3.3,25.1,49.7,54.3,5.2,81.4,0,Highest,Lowest
+16000US3615000,"Cheektowaga CDP, New York",City,40.6,89.8,2.04,50890,14.1,16.1,10.1,10.4,3.3,35,34.5,43,6.9,85.7,0,Medium_High,Lowest
+16000US3649121,"Mount Vernon city, New York",City,44.6,82.8,2.5,59289,19.3,22.8,16,14.6,6.2,32,45.8,47.6,3.2,72.7,0,Highest,Lowest
+16000US3650617,"New Rochelle city, New York",City,44.3,75.9,2.35,74508,12.4,16.5,11.2,10.6,7.2,43.6,32,36.9,5.4,76.6,0,Medium_High,Medium
+16000US3651000,"New York city, New York",City,37.2,76.3,2.53,69407,18.6,22.2,18.4,16,6.9,36.4,41.8,46.1,2.1,85.1,0,Highest,Medium
+16000US3663000,"Rochester city, New York",City,33.3,70.8,2.24,37711,31,36,18.2,25.3,4.2,20.7,54.5,59.1,3.9,78,0,Highest,Lowest
+16000US3665508,"Schenectady city, New York",City,34.6,80.7,2.32,40356,26,44.3,11.1,24.5,7.5,25,47.9,50.5,5.4,80.2,0,Highest,Medium
+16000US3673000,"Syracuse city, New York",City,32.2,78.4,2.23,39494,25.6,50.4,19.3,31.3,5.4,22.8,52.8,57.5,4.8,75.4,0,Highest,Lowest
+16000US3684000,"Yonkers city, New York",City,37.9,83.3,2.64,64916,18.6,19.1,12.8,14.2,7.6,40.8,36.1,38.8,3.4,82.4,0,Highest,Medium

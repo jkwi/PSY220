@@ -1,0 +1,17 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US09001,"Fairfield County, Connecticut",County,40.6,55.1,2.72,97053,8.3,12.4,7,9.1,9.1,52.5,31.8,36.9,4.1,91.1,0,Medium_Low,Medium
+05000US09003,"Hartford County, Connecticut",County,40.3,65.4,2.46,75381,12.9,14.4,9.4,10.9,4.3,43.8,34.1,40.9,4.9,87.3,0,Medium_High,Lowest
+05000US09005,"Litchfield County, Connecticut",County,47.9,69.3,2.4,81195,6.6,11.7,4.2,7.3,4.7,52.4,23.5,30.8,6.8,89.8,0,Medium_Low,Lowest
+05000US09007,"Middlesex County, Connecticut",County,46.4,69.7,2.34,76518,10.4,8.8,5.5,7.3,3.3,48.3,27.8,35.5,7.1,87.7,0,Medium_High,Lowest
+05000US09009,"New Haven County, Connecticut",County,40.6,68.6,2.51,69751,13.8,19.3,8,12.2,5.9,42.4,36.4,42.6,5.1,86.7,0,Medium_High,Lowest
+05000US09011,"New London County, Connecticut",County,41.9,56.5,2.31,75633,10.9,11.7,4.4,7.2,4.6,48,26.7,37.9,11.1,88.8,0,Medium_High,Lowest
+05000US09013,"Tolland County, Connecticut",County,39.1,62.6,2.39,91028,4.4,6.5,5.1,8.3,2.5,55.7,32.5,39.2,6.5,90.1,0,Lowest,Lowest
+05000US09015,"Windham County, Connecticut",County,41.2,60.6,2.37,62106,17.1,12.8,6.2,12.3,4.8,45.4,31.2,38,7,88.3,0,Highest,Lowest
+16000US0908000,"Bridgeport city, Connecticut",City,33.9,62.3,2.8,44035,26,40.2,17.1,26.2,14.3,30.5,46.4,54,2.7,82.5,0,Highest,Highest
+16000US0918430,"Danbury city, Connecticut",City,40.4,53.3,2.52,72226,8.8,15.4,10.6,10.7,15.9,46,31.9,36.9,4.1,89.5,0,Medium_Low,Highest
+16000US0937000,"Hartford city, Connecticut",City,32.5,58.9,2.38,36762,33.8,36.4,25.8,27.1,9.2,17.7,57.9,61.2,2.3,80.9,0,Highest,Medium
+16000US0950370,"New Britain city, Connecticut",City,33.9,63.7,2.37,50031,27.9,39.4,14.5,22.1,3,26.4,47.6,58,3,80.7,0,Highest,Lowest
+16000US0952000,"New Haven city, Connecticut",City,32,58.4,2.57,41956,27.8,42.2,14.6,25,9.3,27.7,54.6,64.5,1.9,86.3,0,Highest,Medium
+16000US0955990,"Norwalk city, Connecticut",City,40.6,57.3,2.62,89881,6.5,8.7,6.9,8.1,19.9,45.9,35.3,42.2,3,92.6,0,Lowest,Highest
+16000US0973000,"Stamford city, Connecticut",City,37.4,51.1,2.58,100713,7.9,10.3,3.5,7.3,12.1,47.2,36.5,41.5,2.9,91.7,0,Medium_Low,Highest
+16000US0980000,"Waterbury city, Connecticut",City,34.9,67.6,2.51,42754,28.8,42.2,19,26.8,7.1,28.6,39.1,53,3.7,75.4,0,Highest,Medium

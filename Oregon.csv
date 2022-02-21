@@ -1,0 +1,24 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US41003,"Benton County, Oregon",County,34.4,50,2.33,70835,9.7,13.3,10.4,17.9,4.7,48.1,40.5,45.3,5.4,93.5,0,Medium_Low,Lowest
+05000US41005,"Clackamas County, Oregon",County,41.6,58.6,2.57,80294,8.9,5.9,7.4,7,7.4,53.3,23.3,30.9,7,87.3,0,Medium_Low,Medium
+05000US41017,"Deschutes County, Oregon",County,44,40.3,2.57,71643,8,12.9,4.6,9.7,7,52.5,24.6,32.3,10.1,92.2,0,Medium_Low,Medium
+05000US41019,"Douglas County, Oregon",County,47.5,46.9,2.36,48585,18.1,12.3,4.6,10.3,6.7,51.5,16.9,27.8,14.6,87.5,0,Highest,Medium
+05000US41029,"Jackson County, Oregon",County,43.7,42,2.48,56450,17.5,19.6,10.9,13.9,7.9,46,23.1,31,11.1,85,0,Highest,Medium
+05000US41033,"Josephine County, Oregon",County,46.7,36,2.45,47573,23.7,23.8,8.6,15.7,12.5,49.6,22.2,30.6,11.3,85.8,0,Highest,Highest
+05000US41035,"Klamath County, Oregon",County,41.3,53.1,2.3,56348,22.7,19.5,16.7,16.4,7,43.2,22.3,32.8,13.4,80.7,0,Highest,Medium
+05000US41039,"Lane County, Oregon",County,39.5,47.7,2.4,57325,16.8,12.6,9.2,14,7.1,43.1,33,38.9,8.6,89.2,0,Highest,Medium
+05000US41043,"Linn County, Oregon",County,41,58.5,2.6,61488,17.3,19,8.2,13.3,7.3,48,24.3,35.5,8.9,88.9,0,Highest,Medium
+05000US41047,"Marion County, Oregon",County,37,59.9,2.79,64306,18.1,13,7.1,11.8,8.4,49.2,29.9,36.5,6.6,89.6,0,Highest,Medium
+05000US41051,"Multnomah County, Oregon",County,37.6,47.4,2.35,72900,11.4,14.6,8.5,12.2,7.2,38.7,38,44.1,5.2,91.3,0,Medium_High,Medium
+05000US41053,"Polk County, Oregon",County,37.8,59.1,2.7,72914,12.3,10.3,5.4,7.3,5.3,56.3,26.5,30.5,7.3,86.5,0,Medium_High,Lowest
+05000US41059,"Umatilla County, Oregon",County,36.5,41.4,2.65,60425,15.4,17.9,8.2,14.5,7.4,50.6,21.8,37.1,7.6,83.7,0,Highest,Medium
+05000US41067,"Washington County, Oregon",County,37,51.4,2.67,85734,7.5,10,7.1,8.4,5.7,51.6,30.1,36.3,5.9,92.4,0,Medium_Low,Lowest
+05000US41071,"Yamhill County, Oregon",County,37.7,54.3,2.79,72904,14.7,14.9,8.9,11.4,9.6,49.2,32.4,35.5,9.8,88.4,0,Highest,Medium
+16000US4105350,"Beaverton city, Oregon",City,38.2,44.3,2.25,73260,5.2,7.2,6.2,9.1,8.5,40.1,32.1,47.1,5.3,90.6,0,Lowest,Medium
+16000US4105800,"Bend city, Oregon",City,39.8,36,2.54,69998,5.1,10.7,5.5,10.2,9,47.5,26.6,37.8,8.4,93.8,0,Lowest,Medium
+16000US4123850,"Eugene city, Oregon",City,36.9,41.5,2.27,51269,13.8,15.5,11,17.3,7.1,36.2,42.2,47.8,6.9,90.7,0,Medium_High,Medium
+16000US4131250,"Gresham city, Oregon",City,37.7,61.1,2.65,53892,16.9,15.9,6.5,11.5,9.2,44.4,32.6,40.5,6.2,90,0,Highest,Medium
+16000US4134100,"Hillsboro city, Oregon",City,34.4,55,2.82,86038,10.4,12.2,4.7,8.6,5.6,55,33,33.3,5.7,93.3,0,Medium_High,Lowest
+16000US4147000,"Medford city, Oregon",City,39.6,44.9,2.46,54737,20.1,16.2,13.8,13.6,9.7,41.1,23.5,37.8,10.9,85.5,0,Highest,Medium
+16000US4159000,"Portland city, Oregon",City,37.5,44.5,2.27,76231,10.9,13.5,9.4,12.3,6.6,36.7,39.6,45.7,4.8,91.5,0,Medium_High,Medium
+16000US4164900,"Salem city, Oregon",City,34.8,58.3,2.73,61580,19.6,16.6,9,13.7,6.3,45.2,33,41.2,5.3,90.5,0,Highest,Lowest

@@ -1,0 +1,20 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US05007,"Benton County, Arkansas",County,35.7,45.5,2.74,69130,4.1,13.4,10.1,9.1,9.9,58.3,23.8,27.8,7.1,88.7,0,Lowest,Medium
+05000US05031,"Craighead County, Arkansas",County,35.2,69.6,2.57,45610,11.1,30.6,7.6,17.7,8.7,47.5,28.7,34.4,5.3,88,0,Medium_High,Medium
+05000US05045,"Faulkner County, Arkansas",County,33.3,69.3,2.55,57642,8.2,17.4,15.3,16.3,9.4,48.8,33.1,38.4,7.1,93.2,0,Medium_Low,Medium
+05000US05051,"Garland County, Arkansas",County,45.1,56.4,2.33,45265,14.7,24,8.8,17.4,11,44.2,20.5,30.8,8.6,81,0,Highest,Highest
+05000US05069,"Jefferson County, Arkansas",County,39.6,76.9,2.2,39326,16.7,35.1,19.8,24.7,6.7,34.2,32.5,40.2,6.9,69.2,0,Highest,Medium
+05000US05085,"Lonoke County, Arkansas",County,37.4,64.3,2.79,62532,8.4,16.6,9.4,11.1,8.4,57.7,19.1,29.8,11,86.2,0,Medium_Low,Medium
+05000US05119,"Pulaski County, Arkansas",County,38,69.1,2.44,52043,10.4,19.5,8.4,14.3,8.9,39.2,32.7,35.3,9.3,83.4,0,Medium_High,Medium
+05000US05125,"Saline County, Arkansas",County,40.4,68.7,2.66,66327,9.9,20.1,5.8,10.9,8.3,54.3,23.5,26.6,8.3,86.2,0,Medium_Low,Medium
+05000US05131,"Sebastian County, Arkansas",County,37.8,62.4,2.45,48839,9.5,21.7,11.1,16.1,11.4,45,27.9,31.1,10.4,78.3,0,Medium_Low,Highest
+05000US05143,"Washington County, Arkansas",County,32.6,54.5,2.59,50798,6.5,15.9,7.7,16.6,12.8,46.9,31.5,41.5,6.8,84.3,0,Lowest,Highest
+05000US05145,"White County, Arkansas",County,37.5,68.4,2.62,43399,12.1,19.7,13.4,15.3,8.4,47,25.5,30.6,7.4,77.9,0,Medium_High,Medium
+16000US0515190,"Conway city, Arkansas",City,28.7,69.6,2.38,46805,8.7,23.2,11.9,21,9.5,34.5,45.1,51.5,5,94.9,0,Medium_Low,Medium
+16000US0523290,"Fayetteville city, Arkansas",City,27.9,49.8,2.19,44859,6.4,16.8,2.7,22,9.8,33.8,41.5,55.8,6,85.1,0,Lowest,Medium
+16000US0524550,"Fort Smith city, Arkansas",City,37.3,63.1,2.39,43097,10.6,25.6,12.6,17.9,14.4,41.4,30.9,33.5,8.4,75.3,0,Medium_High,Highest
+16000US0535710,"Jonesboro city, Arkansas",City,34.6,66.5,2.52,42939,11.4,35.4,8.6,19.5,7.6,45.2,34.1,37.7,5.2,87.8,0,Medium_High,Medium
+16000US0541000,"Little Rock city, Arkansas",City,37.4,69.5,2.42,54878,10.4,15.9,9.9,12.3,8.9,36.5,35.5,40.6,7,86,0,Medium_High,Medium
+16000US0550450,"North Little Rock city, Arkansas",City,35.2,74.2,2.33,40870,11.6,25.1,9.6,18.8,15.1,36.2,35.1,30.9,8.8,78.7,0,Medium_High,Highest
+16000US0560410,"Rogers city, Arkansas",City,32.2,52.1,2.8,65823,5.6,17.5,5,9.9,14.8,51.7,29.1,30.6,5.7,87.7,0,Lowest,Highest
+16000US0566080,"Springdale city, Arkansas",City,31.1,58.2,3.01,47960,8.7,23.4,13.2,20.7,20.2,49.1,30.4,39.2,5.5,82.3,0,Medium_Low,Highest

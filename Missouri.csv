@@ -1,0 +1,28 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US29019,"Boone County, Missouri",County,31.7,69.3,2.42,57013,9.5,16.3,6,19.6,7.1,41.9,42.4,44,6,86.3,0,Medium_Low,Medium
+05000US29021,"Buchanan County, Missouri",County,39.5,75.8,2.44,46922,12,22.5,8,16.5,14.7,43.6,30.2,39.7,8.5,78.8,0,Medium_High,Highest
+05000US29031,"Cape Girardeau County, Missouri",County,37.4,73,2.41,57908,9.3,22.8,7.6,16.2,6.9,51.1,28,34.1,8.7,86.8,0,Medium_Low,Medium
+05000US29037,"Cass County, Missouri",County,39.4,64,2.58,72819,7.6,15.8,3.9,8.3,8,55.7,23.7,23.2,9.8,88.9,0,Medium_Low,Medium
+05000US29043,"Christian County, Missouri",County,38.6,60,2.65,62765,8.6,17,5.6,12.4,9.2,59.5,20.2,25.4,9.3,88.5,0,Medium_Low,Medium
+05000US29047,"Clay County, Missouri",County,37.6,62,2.66,70253,7.1,17.3,5.9,10.5,8.3,49.7,26.7,34.3,7.7,90.9,0,Medium_Low,Medium
+05000US29051,"Cole County, Missouri",County,40.5,74.9,2.25,61371,7.7,15.5,8.4,11.2,9.7,50.2,27.5,29.7,10.2,82.2,0,Medium_Low,Medium
+05000US29071,"Franklin County, Missouri",County,41.5,79.9,2.44,60953,9.3,12.3,7.6,8.9,8.3,51.5,20.1,28.8,10.6,88.4,0,Medium_Low,Medium
+05000US29077,"Greene County, Missouri",County,36.3,69.8,2.1,43752,13.4,9.5,10.2,14.5,13.6,40.8,29.4,36.9,6.1,76.7,0,Medium_High,Highest
+05000US29095,"Jackson County, Missouri",County,37.2,62.2,2.36,57936,10,20.3,9.1,13.5,11.7,40.7,32,37.4,7.7,85.6,0,Medium_Low,Highest
+05000US29097,"Jasper County, Missouri",County,36.1,63,2.64,45010,14.7,32.5,10.8,20.6,16.6,41.7,26.3,34.9,8,85.7,0,Highest,Highest
+05000US29099,"Jefferson County, Missouri",County,40.3,80.9,2.66,69009,9,11.3,5.1,7.8,8.5,55.8,24.4,30.8,8.5,90.5,0,Medium_Low,Medium
+05000US29165,"Platte County, Missouri",County,39.2,54.1,2.57,81712,4.8,4.6,3.7,4.5,7.3,51.7,24.4,31,8.9,90.4,0,Lowest,Medium
+05000US29183,"St. Charles County, Missouri",County,39,70.3,2.62,89146,2.5,5,3.9,4.2,4.8,59.4,22.8,30.5,8.3,91.7,0,Lowest,Lowest
+05000US29187,"St. Francois County, Missouri",County,39.1,84,2.51,42390,14.3,13.7,14.1,16.5,11.5,45.2,26.6,41.8,7.9,84,0,Medium_High,Highest
+05000US29189,"St. Louis County, Missouri",County,40.4,71.9,2.37,70022,7.2,12.5,7.2,9,5.9,45,31.1,35.6,6.5,89.9,0,Medium_Low,Lowest
+05000US29510,"St. Louis city, Missouri",City,36.4,69.1,1.98,47176,17.4,24.1,18.1,19.1,10.5,24.7,45.2,50.7,6.5,82.1,0,Highest,Highest
+16000US2915670,"Columbia city, Missouri",City,28.5,65.7,2.44,56501,8.8,16.3,6.3,22.4,6.9,39.2,48.7,48.6,4.9,85.8,0,Medium_Low,Medium
+16000US2935000,"Independence city, Missouri",City,36.8,71.3,2.44,52325,11.9,30.5,11.2,17.2,13.5,40.6,26.1,31.7,7.8,85.1,0,Medium_High,Highest
+16000US2938000,"Kansas City city, Missouri",City,35.3,58,2.32,55259,11.2,22.3,9.4,15.3,12,35.7,36.2,41.2,7.1,84.9,0,Medium_High,Highest
+16000US2941348,"Lee's Summit city, Missouri",City,38.3,58.2,2.7,106912,1.2,4.2,3.5,3.6,5.2,62,21.3,29.2,8.1,93.5,0,Lowest,Lowest
+16000US2954074,"O'Fallon city, Missouri",City,38.3,71.6,2.74,92827,3,5.7,3.9,4,5.7,61.4,19.6,33.5,7.1,91.3,0,Lowest,Lowest
+16000US2964082,"St. Charles city, Missouri",City,38.9,66.3,2.18,72104,2.8,9.7,4.6,6.1,5.9,47.1,27.4,36.7,8.3,88.5,0,Lowest,Lowest
+16000US2964550,"St. Joseph city, Missouri",City,39,74,2.41,43614,13.2,25,8.5,18.3,15.7,40.4,32.1,42.7,8.4,77.7,0,Medium_High,Highest
+16000US2965000,"St. Louis city, Missouri",City,36.4,69.1,1.98,47176,17.4,24.1,18.1,19.1,10.5,24.7,45.2,50.7,6.5,82.1,0,Highest,Highest
+16000US2970000,"Springfield city, Missouri",City,33.6,71.4,1.94,35677,17.9,14.4,13.8,20.9,16.8,30,38.2,45.7,5.4,73.6,0,Highest,Highest
+16000US4848804,"Missouri City city, Texas",City,42.3,66.4,2.98,86486,3.7,1.5,2.8,1.9,10.3,61.8,27.1,34.2,6.3,95.4,0,Lowest,Highest

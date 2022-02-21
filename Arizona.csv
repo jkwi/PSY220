@@ -1,0 +1,28 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US04001,"Apache County, Arizona",County,36.6,71.6,3.38,30480,26.4,47.8,18.1,34.6,31.4,34.4,44.2,48.5,8,34.7,0,Highest,Highest
+05000US04003,"Cochise County, Arizona",County,42.2,41.7,2.31,48484,16.4,26.4,7.4,16.3,7.3,47.4,23.1,31.8,19.4,82.5,0,Highest,Medium
+05000US04005,"Coconino County, Arizona",County,31.1,54.8,2.61,58085,7.4,11.6,14.4,15.8,12,44.8,46.8,48.1,5.7,81.1,0,Medium_Low,Highest
+05000US04013,"Maricopa County, Arizona",County,36.9,45.7,2.75,68649,7.6,17.3,8.4,12.1,11.5,48,31.8,38.8,7.3,89.1,0,Medium_Low,Highest
+05000US04015,"Mohave County, Arizona",County,52.7,19.4,2.29,50179,11.3,29,8.3,15.7,7.9,50.3,19.3,25.3,13.7,84,0,Medium_High,Medium
+05000US04017,"Navajo County, Arizona",County,39.4,68.9,2.79,38897,20.9,34.9,11.6,25.6,17.5,47.7,32.7,37,7.9,65.3,0,Highest,Highest
+05000US04019,"Pima County, Arizona",County,38.9,48.7,2.48,56169,11.2,18.4,8.3,13.8,10.3,42.6,31.3,39.2,9.6,88.3,0,Medium_High,Highest
+05000US04021,"Pinal County, Arizona",County,39.9,44.6,2.84,62057,9.5,16.6,7.8,11.9,9.4,56.8,24.5,32.9,10.4,88.8,0,Medium_Low,Medium
+05000US04025,"Yavapai County, Arizona",County,54.7,33.4,2.24,53816,7.3,14,9.2,12,10.7,49.7,17.3,26.3,13.6,87.1,0,Medium_Low,Highest
+05000US04027,"Yuma County, Arizona",County,35.1,49.4,2.81,46419,18.4,34.1,18.5,21.4,14,48.9,28.4,34.2,8.5,81.9,0,Highest,Highest
+16000US0404720,"Avondale city, Arizona",City,29.5,54.3,3.46,71296,12.1,15.8,6.2,10.1,15.2,51.5,38.3,45.1,6.5,89.5,0,Medium_High,Highest
+16000US0407940,"Buckeye city, Arizona",City,34.8,38.9,3.4,83348,3.5,6,4.3,6.5,9.3,66.9,30.3,39.6,11.1,95.1,0,Lowest,Medium
+16000US0410670,"Casas Adobes CDP, Arizona",City,40.8,45.8,2.38,70278,5.2,6.5,3.6,6.2,5.3,48.6,26.5,32.4,11.1,92.8,0,Lowest,Lowest
+16000US0412000,"Chandler city, Arizona",City,37.8,44,2.77,83709,3.6,7.8,6.6,6.7,8.8,53.4,29.4,34.5,6.2,96,0,Lowest,Medium
+16000US0423620,"Flagstaff city, Arizona",City,25.8,45.9,2.38,58900,3.8,2.9,10.6,16.6,5.9,39.3,54.8,55.7,4.5,87.2,0,Lowest,Lowest
+16000US0427400,"Gilbert town, Arizona",City,34.8,46.2,3.12,102793,3,5.3,7.1,4.6,5.2,63.1,25.2,33.4,7.3,97.1,0,Lowest,Lowest
+16000US0427820,"Glendale city, Arizona",City,35.7,52.3,3.06,57137,15.5,28.8,13.7,18.9,14.7,45.1,34.3,42.6,7.2,81.4,0,Highest,Highest
+16000US0428380,"Goodyear city, Arizona",City,37.8,41.6,3.14,85147,5.6,10.1,3.6,8.3,7.8,66.7,25.4,30.6,10.5,95.8,0,Lowest,Medium
+16000US0446000,"Mesa city, Arizona",City,35.9,45.5,2.75,63836,7.1,17.3,7.3,11.6,12.5,47.1,28.3,38.4,8.4,90.6,0,Medium_Low,Highest
+16000US0454050,"Peoria city, Arizona",City,42.5,39.5,2.64,77368,5.9,9.1,9.9,8.8,7.1,57.7,24.7,26.8,9,92.1,0,Lowest,Medium
+16000US0455000,"Phoenix city, Arizona",City,34.4,52.7,2.83,60931,10.2,23.4,10.4,15.6,15.4,42.6,37.1,43.5,5.3,84.9,0,Medium_High,Highest
+16000US0464210,"San Tan Valley CDP, Arizona",City,34,43,3.31,75624,10.6,7.9,5.5,7.4,8.5,64.8,31,33.2,8.9,95.9,0,Medium_High,Medium
+16000US0465000,"Scottsdale city, Arizona",City,50.1,27.5,2.07,86097,2.5,7.1,5.1,6,4.6,43.8,26.2,33.8,6.6,93.4,0,Lowest,Lowest
+16000US0471510,"Surprise city, Arizona",City,39.8,35.6,2.88,76405,3.4,10.2,5.9,7.3,7.9,59.8,25.6,28,12.2,95.5,0,Lowest,Medium
+16000US0473000,"Tempe city, Arizona",City,30,42.4,2.4,66297,3.9,11.7,10.4,17.2,9.2,31.1,50.7,59.4,5.9,93.9,0,Lowest,Medium
+16000US0477000,"Tucson city, Arizona",City,34.5,53.9,2.39,44365,14.7,25.8,12.2,19.1,12.7,32.3,38,48.5,7.9,87.4,0,Highest,Highest
+16000US0485540,"Yuma city, Arizona",City,30.6,46,2.71,47249,17,27.1,18.6,19.6,12.8,45.9,29.4,35.6,10.4,84.4,0,Highest,Highest

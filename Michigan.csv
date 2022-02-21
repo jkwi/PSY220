@@ -1,0 +1,46 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US26005,"Allegan County, Michigan",County,40.2,82.3,2.67,66278,6.2,21.2,6,12,6.6,59.3,24.6,30.5,4.3,85.1,0,Lowest,Medium
+05000US26017,"Bay County, Michigan",County,44.1,91.3,2.27,49610,13.8,23.2,9,13.9,4.8,46,23.6,33.9,9.4,87.8,0,Medium_High,Lowest
+05000US26021,"Berrien County, Michigan",County,42.1,63.2,2.43,50153,10.7,24.1,8.3,16.2,7.5,47.3,26,34.8,6.1,75.2,0,Medium_High,Medium
+05000US26025,"Calhoun County, Michigan",County,39.6,83.1,2.42,49055,10.1,20.3,10.1,13.4,6,42.2,30.4,38.3,7.8,85.2,0,Medium_Low,Lowest
+05000US26037,"Clinton County, Michigan",County,41.2,86.1,2.62,69651,7.4,7.2,5.4,8.5,5.8,56.5,26.6,32.3,7.9,86.9,0,Medium_Low,Lowest
+05000US26045,"Eaton County, Michigan",County,40.7,84.6,2.44,65409,7.4,9,5.2,6.6,5.2,48.9,25.7,33.2,6.9,86.6,0,Medium_Low,Lowest
+05000US26049,"Genesee County, Michigan",County,40.4,85.7,2.37,50389,20.3,21.7,9.6,16.5,5.3,41.1,31.7,36.6,7.5,83.2,0,Highest,Lowest
+05000US26055,"Grand Traverse County, Michigan",County,42.9,79.1,2.44,65266,7.5,8.1,2.8,6.1,5.8,53.5,23.1,30.7,7.4,90.1,0,Medium_Low,Lowest
+05000US26065,"Ingham County, Michigan",County,32.4,79.1,2.38,54395,10.8,16.8,8,17.7,5.8,36.7,42.2,49,5.2,87.7,0,Medium_High,Lowest
+05000US26073,"Isabella County, Michigan",County,29.5,85.3,2.59,45201,10.2,28.8,11.5,25.4,8.1,42.1,45.1,48.7,5.4,82.2,0,Medium_High,Medium
+05000US26075,"Jackson County, Michigan",County,41.3,84.4,2.43,55124,12.4,16.5,9.7,14,6,42,27.8,36.9,7,85.2,0,Medium_High,Lowest
+05000US26077,"Kalamazoo County, Michigan",County,34.8,76.8,2.5,56441,7.7,11.9,6.5,13.4,5.7,44.2,36.8,42.6,5.8,88.5,0,Medium_Low,Lowest
+05000US26081,"Kent County, Michigan",County,35.5,82.6,2.63,66532,9,15.5,6.4,11.3,6,49.3,32.8,37.9,5.6,88.4,0,Medium_Low,Lowest
+05000US26087,"Lapeer County, Michigan",County,44.5,84.8,2.52,66263,9,14.8,5.2,10.9,6.7,61.1,22.3,30.1,8.1,86.5,0,Medium_Low,Medium
+05000US26091,"Lenawee County, Michigan",County,42.1,77.3,2.42,53865,12.9,16.8,8.8,12.8,7.4,48.3,25.9,32.7,7.6,84.1,0,Medium_High,Medium
+05000US26093,"Livingston County, Michigan",County,43.7,83.9,2.6,86512,3.8,3.1,5.6,3.9,4.4,57.5,23.3,30.9,6.5,88.9,0,Lowest,Lowest
+05000US26099,"Macomb County, Michigan",County,40.9,88.6,2.46,64947,9.2,11.2,7.4,8.4,5.8,47,28.5,36.7,6.4,90.6,0,Medium_Low,Lowest
+05000US26103,"Marquette County, Michigan",County,38.8,76.9,2.27,55148,8.5,10.2,5.8,11.4,5.2,47.5,31.6,37.7,9,82.5,0,Medium_Low,Lowest
+05000US26111,"Midland County, Michigan",County,41.3,83.8,2.38,69872,10.6,9.6,6.8,9.3,4.5,55.9,22,24.6,7,86.3,0,Medium_High,Lowest
+05000US26115,"Monroe County, Michigan",County,43,60.6,2.45,62839,10.5,17.3,5.2,10.8,4.1,53.2,22.6,31,8,83.1,0,Medium_High,Lowest
+05000US26121,"Muskegon County, Michigan",County,39.1,86.8,2.53,50366,15.5,14.6,8,12.9,5.8,42.4,27,35.5,8.9,80.5,0,Highest,Lowest
+05000US26125,"Oakland County, Michigan",County,41,81.6,2.45,81190,6.2,9.3,6.9,7.7,4.6,49.3,28.4,35.3,5.1,92.3,0,Lowest,Lowest
+05000US26139,"Ottawa County, Michigan",County,36.1,79.9,2.68,68817,5.8,8,7.1,8.3,3.8,55.8,30.8,35.6,5.1,87.8,0,Lowest,Lowest
+05000US26145,"Saginaw County, Michigan",County,40.9,86.5,2.33,48303,19.7,31.8,9.3,19,3.8,43.9,31.7,35.8,7,85.3,0,Highest,Lowest
+05000US26147,"St. Clair County, Michigan",County,44.2,88.9,2.47,59837,12,12.1,7.4,10,4.5,51,23.4,32,7.4,85.2,0,Medium_High,Lowest
+05000US26155,"Shiawassee County, Michigan",County,43.5,87.6,2.51,55249,13.6,14.8,6.9,10.7,5.2,51.7,27.4,30.3,10.3,80.3,0,Medium_High,Lowest
+05000US26159,"Van Buren County, Michigan",County,41.9,76.8,2.4,60549,14.1,15.6,9.3,12.6,7.5,53.7,21.1,28.7,6.8,84.6,0,Medium_High,Medium
+05000US26161,"Washtenaw County, Michigan",County,34.1,68.5,2.44,76576,6,13.5,5.9,13.4,3.7,45.7,40.9,45.4,4.8,92.1,0,Lowest,Lowest
+05000US26163,"Wayne County, Michigan",County,37.6,83.4,2.51,50753,19.3,29.4,12.5,19.6,6.4,35.2,40,44.8,5.7,82.2,0,Highest,Medium
+16000US2603000,"Ann Arbor city, Michigan",City,27.6,56.2,2.31,72137,4.2,11.4,4.3,20.4,4,35.2,55.3,59.7,3.1,92.8,0,Lowest,Lowest
+16000US2621000,"Dearborn city, Michigan",City,29.9,83.6,3.09,53509,19.6,36.5,13.6,25.7,5.4,49.3,30.6,44.9,3.1,85.9,0,Highest,Lowest
+16000US2622000,"Detroit city, Michigan",City,35,81.8,2.46,33965,33,43.2,18.8,30.6,8.2,19,54.8,58.8,4.6,75.6,0,Highest,Medium
+16000US2627440,"Farmington Hills city, Michigan",City,40.1,79.1,2.43,86178,4.5,1.9,10.1,6.4,2.4,46.6,28.6,38.8,3.8,92.8,0,Lowest,Lowest
+16000US2629000,"Flint city, Michigan",City,36.2,80.6,2.32,32236,43,40.6,18.2,32.6,5.8,25.8,46.3,48.6,5.8,71.4,0,Highest,Lowest
+16000US2634000,"Grand Rapids city, Michigan",City,31.4,81,2.5,51817,15.3,33.1,10.8,22.4,10.6,34.1,44.8,52,3.9,84.2,0,Highest,Highest
+16000US2642160,"Kalamazoo city, Michigan",City,27.8,75.5,2.26,39494,14.3,23.2,6.9,26.3,6.6,25.8,58.6,62,5.5,81.9,0,Medium_High,Medium
+16000US2646000,"Lansing city, Michigan",City,33.3,81.8,2.26,41066,16.7,31.3,11.7,21.3,8.4,26.6,42.2,52,4.4,85.8,0,Highest,Medium
+16000US2649000,"Livonia city, Michigan",City,46.4,84.1,2.43,81305,4.6,7.4,5.4,5.8,2.5,57.1,25.5,29.1,5.9,90.4,0,Lowest,Lowest
+16000US2669035,"Rochester Hills city, Michigan",City,42.2,80,2.59,101620,3.8,1.2,5.6,3.1,2.7,60.3,23.7,31,5.8,95.1,0,Lowest,Lowest
+16000US2674900,"Southfield city, Michigan",City,43.5,75.9,2.04,51637,10.2,15.5,14.5,14.6,6.3,30.1,35.1,43,5.5,85.8,0,Medium_High,Lowest
+16000US2676460,"Sterling Heights city, Michigan",City,42.2,86.8,2.56,67238,9.2,15.1,8.3,8.9,6.9,51.6,27.6,36.5,5.3,91.7,0,Medium_Low,Medium
+16000US2680700,"Troy city, Michigan",City,42.4,81.5,2.67,110909,3.9,7.6,4.6,5.6,3.5,63.6,20.8,33.5,4,95.9,0,Lowest,Lowest
+16000US2684000,"Warren city, Michigan",City,38.2,89.3,2.53,52739,18.1,17.6,12,12,7.1,43.4,32.4,41.8,5.6,86,0,Highest,Medium
+16000US2686000,"Westland city, Michigan",City,40.3,84.7,2.28,54303,8.9,17.3,12.5,11.6,7.6,35.3,36.5,38.4,6.5,86.6,0,Medium_Low,Medium
+16000US2688940,"Wyoming city, Michigan",City,34.2,83.7,2.66,57570,10.1,11.5,6.1,8.5,6.3,47.4,35.5,39.8,5.6,90,0,Medium_Low,Lowest

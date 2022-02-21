@@ -1,0 +1,40 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US18003,"Allen County, Indiana",County,36.3,73.8,2.55,56519,8.3,12,5.8,10.2,8.3,46.6,31.9,36.2,7.4,89.9,0,Medium_Low,Medium
+05000US18005,"Bartholomew County, Indiana",County,38,76.7,2.72,72555,7.4,25.2,3.1,13.9,5.7,48.1,28.8,37.9,5.6,89.9,0,Medium_Low,Lowest
+05000US18011,"Boone County, Indiana",County,38.4,68.4,2.51,70813,4.5,11.4,6,10.1,5.1,61,19.2,24.3,6,87.1,0,Lowest,Lowest
+05000US18019,"Clark County, Indiana",County,39.7,48,2.67,59064,8.3,12,7.5,9.8,5.9,46.8,31.8,33.1,7.1,78.3,0,Medium_Low,Lowest
+05000US18035,"Delaware County, Indiana",County,36.6,75.1,2.34,45065,13.3,27.2,6.2,22.8,9.4,36,38.6,46.6,6.9,82.5,0,Medium_High,Medium
+05000US18039,"Elkhart County, Indiana",County,35.9,72,2.96,54531,6.3,9.9,11.3,9.2,15.7,48,28.5,37,5.4,87.2,0,Lowest,Highest
+05000US18043,"Floyd County, Indiana",County,38.8,52.4,2.7,63219,7.1,16.9,3.4,11.2,5.9,49.2,27.6,36.1,7,81.4,0,Medium_Low,Lowest
+05000US18053,"Grant County, Indiana",County,40.8,74,2.2,47206,11.3,23.2,13.6,15.3,9.2,39.9,31,36.5,9.4,82.3,0,Medium_High,Medium
+05000US18057,"Hamilton County, Indiana",County,37.4,62.1,2.69,105062,2.2,5.3,5.6,4.6,4.3,64.8,22.6,28.4,5.4,95.1,0,Lowest,Lowest
+05000US18059,"Hancock County, Indiana",County,40.5,77.5,2.67,69392,2,1.2,12.8,5.2,4,55.3,27.8,27.3,5.7,87.6,0,Lowest,Lowest
+05000US18063,"Hendricks County, Indiana",County,39.2,71.5,2.76,85381,3.9,4.5,4.9,4.8,7.2,56.1,23.9,29.4,7.8,91.7,0,Lowest,Medium
+05000US18067,"Howard County, Indiana",County,41.6,76.7,2.38,53440,8.7,16.4,6.9,11.9,11.7,44.3,24.7,34.3,9.5,86,0,Medium_Low,Highest
+05000US18081,"Johnson County, Indiana",County,38.2,73.5,2.72,73651,5.3,4.6,5.5,4.8,6.4,55.5,25.4,31.1,7.2,87.1,0,Lowest,Medium
+05000US18085,"Kosciusko County, Indiana",County,39.7,73.8,2.51,64099,8.3,11.5,6.2,9.7,10.2,55.8,25,29.6,7.1,83.5,0,Medium_Low,Highest
+05000US18089,"Lake County, Indiana",County,40,58.4,2.52,57081,11.5,20.7,9.2,14.1,7.9,42.8,34,37.2,6.7,83.4,0,Medium_High,Medium
+05000US18091,"LaPorte County, Indiana",County,41.1,74.6,2.36,56019,12.9,29.4,4.5,13.7,7.8,43.6,24.1,38.1,7.4,83.6,0,Medium_High,Medium
+05000US18095,"Madison County, Indiana",County,40.7,81.3,2.41,55142,10.7,18.5,7.9,12.6,9.9,46.1,26.6,33.7,8.3,83.3,0,Medium_High,Medium
+05000US18097,"Marion County, Indiana",County,34.4,72.5,2.5,50458,11.3,19.6,10.3,15,10.7,35.1,42.1,45.8,6.1,83,0,Medium_High,Highest
+05000US18105,"Monroe County, Indiana",County,29.5,65.9,2.46,52453,6.8,17.5,4,22.3,5.1,41.6,45.5,55.1,4.6,89.5,0,Medium_Low,Lowest
+05000US18109,"Morgan County, Indiana",County,41.4,83.6,2.68,62862,5.9,16,3.5,8.2,8.7,53.5,24.1,30.5,8.5,87.8,0,Lowest,Medium
+05000US18127,"Porter County, Indiana",County,40,66.8,2.55,72483,4.2,6.8,6.2,8.1,6.3,53.6,26.3,32.4,7.2,87.2,0,Lowest,Lowest
+05000US18141,"St. Joseph County, Indiana",County,36.9,68.5,2.46,53456,10.3,23.6,8.8,15.7,7.8,44.5,32.4,37.1,6.4,78.8,0,Medium_High,Medium
+05000US18157,"Tippecanoe County, Indiana",County,28.5,67.9,2.42,49352,5.3,14.9,3.1,16.8,6.5,38.7,39.3,50.6,4.4,83.7,0,Lowest,Medium
+05000US18163,"Vanderburgh County, Indiana",County,39.2,73.2,2.31,51350,10.3,21,5.5,14.7,9.2,42.7,27.5,38.1,7.6,86.1,0,Medium_High,Medium
+05000US18167,"Vigo County, Indiana",County,36.4,77.4,2.34,48013,11.2,28.5,10.4,21.5,7.2,40.8,31.7,41.3,7.6,87.4,0,Medium_High,Medium
+05000US18177,"Wayne County, Indiana",County,40.5,73.9,2.29,47944,13.8,26,9.4,15.2,13,46.4,26.1,30.6,8.7,87.1,0,Medium_High,Highest
+05000US42063,"Indiana County, Pennsylvania",County,40,89.8,2.56,51914,14.2,17.9,11.4,13,8.2,48.6,34,43.1,7.2,76.3,0,Medium_High,Medium
+16000US1805860,"Bloomington city, Indiana",City,23.7,61.3,2.38,41017,8.4,21.4,3.9,33.2,6.9,27.1,61.5,73.5,3.4,86.5,0,Medium_Low,Medium
+16000US1810342,"Carmel city, Indiana",City,37.8,61.1,2.63,113714,1.7,4.6,5.3,4,2.9,64.7,26.8,27.4,4.1,96.4,0,Lowest,Lowest
+16000US1822000,"Evansville city, Indiana",City,36.7,70.5,2.23,42600,14.1,29.1,7.9,19.5,11.1,32.7,31.6,44.5,8.1,84.9,0,Medium_High,Highest
+16000US1823278,"Fishers city, Indiana",City,36.6,59.8,2.76,111176,.4,2.2,0,2.5,4.6,63.3,19.1,28.7,4.4,96.9,0,Lowest,Lowest
+16000US1825000,"Fort Wayne city, Indiana",City,35.4,71.9,2.45,49855,10.7,15.2,7.5,12.9,9.2,39.4,36.4,40,7,90.1,0,Medium_High,Medium
+16000US1827000,"Gary city, Indiana",City,36.8,57.7,2.38,31341,22,46.7,15.1,30,13.2,21.7,47.1,50.1,7.4,68.4,0,Highest,Highest
+16000US1831000,"Hammond city, Indiana",City,41.2,50.2,2.53,48333,17.7,26.1,13.3,17.7,11.1,35.2,41.6,41.6,5.8,76.5,0,Highest,Highest
+16000US1836003,"Indianapolis city (balance), Indiana",City,34.3,72.4,2.51,49661,11.6,20.9,10.7,15.8,10.6,34.9,42.1,46,6,82.4,0,Medium_High,Highest
+16000US1840788,"Lafayette city, Indiana",City,34.4,70.4,2.15,45126,10.4,25.9,4.2,14.6,9.9,33.1,29.7,42.7,6.7,79.7,0,Medium_High,Medium
+16000US1851876,"Muncie city, Indiana",City,30.2,74.8,2.27,37109,18.8,38.3,6.5,32.4,10.6,25.8,51.1,60.1,5.4,82.5,0,Highest,Highest
+16000US1854180,"Noblesville city, Indiana",City,36,66.6,2.78,100051,4.3,8.5,12.7,8.2,4.1,64.5,26.3,31.2,5.6,93.7,0,Lowest,Lowest
+16000US1871000,"South Bend city, Indiana",City,34.7,65.5,2.4,41599,15.6,40.8,11.6,26,10.8,34.2,39.4,42.5,6,72.1,0,Highest,Highest

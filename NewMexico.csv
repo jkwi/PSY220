@@ -1,0 +1,14 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US35001,"Bernalillo County, New Mexico",County,38.4,60.8,2.47,56115,14.9,22.5,12.4,16.2,8.7,38.7,33.4,41.1,8.4,83.4,0,Highest,Medium
+05000US35005,"Chaves County, New Mexico",County,36.6,65.1,2.52,42003,21.5,23,14.4,18,8.9,41.3,25.5,38.3,6.2,68.8,0,Highest,Medium
+05000US35025,"Lea County, New Mexico",County,33,49.8,2.79,68457,13.4,21.3,17.9,16.4,12,50.2,24.3,36.7,4.1,78.3,0,Medium_High,Highest
+05000US35031,"McKinley County, New Mexico",County,33.2,80.3,3.25,37153,27.5,42.5,21.1,32.4,27.1,38.3,44.5,46.3,6.3,39,0,Highest,Highest
+05000US35035,"Otero County, New Mexico",County,38.9,39.1,2.62,39371,16,28.2,13.9,23.7,8.2,47,23.2,40.2,13.7,83.7,0,Highest,Medium
+05000US35043,"Sandoval County, New Mexico",County,40.8,57.4,2.74,71997,13.2,13.8,5.6,9.4,5,53.9,29.4,35.5,10,86.5,0,Medium_High,Lowest
+05000US35045,"San Juan County, New Mexico",County,36.7,62.1,2.87,44321,17.2,30.5,16.8,21.2,13.9,42.8,37.4,43.1,6.8,68,0,Highest,Highest
+05000US35049,"Santa Fe County, New Mexico",County,47.3,53.1,2.38,61298,11.1,17.4,11.1,13,12,41.4,28.9,36.2,6.6,82.8,0,Medium_High,Highest
+05000US35061,"Valencia County, New Mexico",County,38.7,71.3,3.04,60601,15.5,27.5,15,19.5,9.1,43.7,33.5,42.2,10.6,69.9,0,Highest,Medium
+16000US3502000,"Albuquerque city, New Mexico",City,37.3,59.8,2.44,55567,15.3,22,11.4,16,8.3,36.4,34.2,43,8.5,84.3,0,Highest,Medium
+16000US3539380,"Las Cruces city, New Mexico",City,30.5,56.1,2.52,45130,21,21.9,13.3,22.2,7.1,35.6,41.4,48.6,9.1,81,0,Highest,Medium
+16000US3563460,"Rio Rancho city, New Mexico",City,37.9,52.8,2.76,74130,12,10.8,3.5,6.4,3,53.6,27.5,35.1,11.8,90.7,0,Medium_High,Lowest
+16000US3570500,"Santa Fe city, New Mexico",City,44.9,53.8,2.37,59247,12.3,24.1,9,13.9,13.9,35.2,31.5,40.4,5.5,82.1,0,Medium_High,Highest

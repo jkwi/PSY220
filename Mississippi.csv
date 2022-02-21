@@ -1,0 +1,13 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US28033,"DeSoto County, Mississippi",County,36.6,33.6,2.82,66078,7.1,14.1,8.4,9.6,8.3,49.7,28.2,35.6,7.1,89.3,0,Medium_Low,Medium
+05000US28035,"Forrest County, Mississippi",County,33.2,73.6,2.62,39063,11.2,26.7,15.6,24.7,13.8,34.4,40.4,45.7,7.1,80.7,0,Medium_High,Highest
+05000US28047,"Harrison County, Mississippi",County,37.3,54.9,2.72,50119,13.7,27.3,7,16.9,14.1,46.7,30.2,39,13.2,81.1,0,Medium_High,Highest
+05000US28049,"Hinds County, Mississippi",County,35.8,82.4,2.52,44964,15,28.6,13.8,18.9,14.4,34.9,40.3,43.7,5.8,86.3,0,Highest,Highest
+05000US28059,"Jackson County, Mississippi",County,39.6,62.9,2.53,52476,8.9,21.4,7.5,15,11.8,45.3,26,33.4,9.9,85.3,0,Medium_Low,Highest
+05000US28067,"Jones County, Mississippi",County,37,84.4,2.74,37594,17.8,45.3,13,27.7,12.2,42.5,26,27.3,7.7,59.4,0,Highest,Highest
+05000US28075,"Lauderdale County, Mississippi",County,38.9,78.9,2.4,37497,16.8,31.5,12.6,20.9,11.4,42.2,34.9,37.3,8.2,78,0,Highest,Highest
+05000US28081,"Lee County, Mississippi",County,38.7,77.7,2.78,49715,8.6,25.9,8.5,14.2,13.2,48.3,30.1,33.2,5.4,77.4,0,Medium_Low,Highest
+05000US28089,"Madison County, Mississippi",County,37.1,76.7,2.6,68171,6.8,15,7.9,8.7,7.8,49.9,32.4,32.6,3.9,90.7,0,Medium_Low,Medium
+05000US28121,"Rankin County, Mississippi",County,38.2,75.7,2.63,67012,4.9,15.5,5,11.6,12.2,51.6,25.2,29.8,8.5,89.4,0,Lowest,Highest
+16000US2829700,"Gulfport city, Mississippi",City,34.6,63.4,2.74,36013,21.5,47.9,12.1,30.7,17.2,35.3,37.2,52.4,10.1,77.9,0,Highest,Highest
+16000US2836000,"Jackson city, Mississippi",City,34.7,83.9,2.49,38972,19,35.8,13.9,23,15.3,30.3,45.5,47.6,6,86.1,0,Highest,Highest

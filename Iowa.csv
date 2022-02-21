@@ -1,0 +1,20 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US19013,"Black Hawk County, Iowa",County,35.8,79.7,2.44,60506,12.1,15.2,6.4,13.3,3.5,43.7,37.1,40.7,6.9,85.9,0,Medium_High,Lowest
+05000US19049,"Dallas County, Iowa",County,35.3,74.8,2.52,94885,5.1,2.1,7.2,3.7,3.3,58.8,24.4,29.2,5.3,90.6,0,Lowest,Lowest
+05000US19061,"Dubuque County, Iowa",County,39.1,75.4,2.43,62178,8.3,12,11,11.4,4.2,44.9,33.6,38.8,7.2,86.6,0,Medium_Low,Lowest
+05000US19103,"Johnson County, Iowa",County,30.7,61.5,2.37,66011,5.9,10,3.2,17.2,7.9,47.4,42,44.7,4.5,89,0,Lowest,Medium
+05000US19113,"Linn County, Iowa",County,37.9,72.9,2.36,63559,8.9,16.8,9.2,12.2,4.4,45.7,28.9,35.3,8.4,89.1,0,Medium_Low,Lowest
+05000US19153,"Polk County, Iowa",County,36,76.5,2.44,66918,10.8,12.2,5,9.9,5,45.4,30.9,36.9,6.9,86.5,0,Medium_High,Lowest
+05000US19155,"Pottawattamie County, Iowa",County,40.2,54.4,2.44,60056,11.1,10.2,11.9,10.4,6.5,46.8,28.4,31.9,8.9,80.5,0,Medium_High,Medium
+05000US19163,"Scott County, Iowa",County,38.7,61.8,2.47,65122,11,14,8.1,11.4,5.6,48.5,29.1,32.1,9.1,84.3,0,Medium_High,Lowest
+05000US19169,"Story County, Iowa",County,27.9,67.5,2.19,63107,6.7,7.5,2.6,17.5,6.6,42.9,42.8,52.9,5.4,74.9,0,Medium_Low,Medium
+05000US19193,"Woodbury County, Iowa",County,35.7,72.1,2.53,58945,11.8,15.3,5.9,12.4,5.8,48,29.2,37.8,6.8,82.5,0,Medium_High,Lowest
+16000US1901855,"Ames city, Iowa",City,25,59.2,2.09,50528,8.2,6.8,1.8,24.2,8.5,34.6,54.7,63.6,4.3,69.9,0,Medium_Low,Medium
+16000US1902305,"Ankeny city, Iowa",City,32.4,75.7,2.55,94862,4,3.1,5.3,4,4.7,56.3,24.1,38.6,6.2,88.3,0,Lowest,Lowest
+16000US1912000,"Cedar Rapids city, Iowa",City,36.7,71.3,2.25,56774,10.1,22.6,10.2,15.6,5.5,39.2,32.4,40.3,7.9,89.6,0,Medium_Low,Lowest
+16000US1919000,"Davenport city, Iowa",City,38,61.8,2.39,57374,14,21.2,12.2,15.7,7.3,42.3,31.5,36,9.4,80.3,0,Medium_High,Medium
+16000US1921000,"Des Moines city, Iowa",City,35.2,76.5,2.3,53859,16.7,21.9,6.7,15.5,6.6,34.7,37.6,42,7.4,81.5,0,Highest,Medium
+16000US1938595,"Iowa City city, Iowa",City,28.4,54.1,2.11,50497,3.9,8.6,.9,25.9,4.3,36.7,53.5,54.4,4.3,89.6,0,Lowest,Lowest
+16000US1973335,"Sioux City city, Iowa",City,35.1,70.5,2.52,53424,13.6,16.4,6.6,14,6.3,44.1,31.1,39.9,6.7,80.3,0,Medium_High,Lowest
+16000US1982425,"Waterloo city, Iowa",City,36.3,78.9,2.38,51847,16.3,24.5,9.3,16.3,4.4,36.5,38.8,41.3,7.3,82.5,0,Highest,Lowest
+16000US1983910,"West Des Moines city, Iowa",City,39.2,69.4,2.21,82755,4.6,3.1,7,4.1,2,45.6,29.4,35.9,6,90.9,0,Lowest,Lowest

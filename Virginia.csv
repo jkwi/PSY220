@@ -1,0 +1,34 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US51003,"Albemarle County, Virginia",County,39.7,47.5,2.34,86399,3.2,3.7,4.7,6.2,4,51.4,31.1,34.6,7.4,87,0,Lowest,Lowest
+05000US51013,"Arlington County, Virginia",County,35,28.3,2.08,119755,2.2,11.7,9.3,8.6,5.6,37.4,41.6,47.9,6.5,92.5,0,Lowest,Lowest
+05000US51015,"Augusta County, Virginia",County,45.9,72.4,2.35,62668,5.4,9.2,3,5.6,7.5,57.3,20.3,27.6,9.4,86.2,0,Lowest,Medium
+05000US51019,"Bedford County, Virginia",County,46.2,67.3,2.5,69125,8.3,6.8,7,8.4,5.2,57.5,23.1,24.6,9.2,77.2,0,Medium_Low,Lowest
+05000US51041,"Chesterfield County, Virginia",County,38.9,60.8,2.71,81297,5.1,9.4,5.3,6.6,8.7,54.5,28.3,33.9,8.8,89.5,0,Lowest,Medium
+05000US51059,"Fairfax County, Virginia",County,38.4,40.5,2.84,128374,3.6,8.4,4.7,6,8.5,57.5,29.9,34.2,8.5,95.7,0,Lowest,Medium
+05000US51061,"Fauquier County, Virginia",County,40.2,54.5,2.92,104809,3.8,8.2,4.3,6.5,9.7,60,25.7,31.2,10.7,87.5,0,Lowest,Medium
+05000US51069,"Frederick County, Virginia",County,41.5,59.9,2.75,86229,5.2,7.5,4.7,5.8,7.5,60.5,21.7,31.6,8.7,83.7,0,Lowest,Medium
+05000US51085,"Hanover County, Virginia",County,42,70.7,2.69,89812,4.5,5.3,4,4.9,4.5,62.1,26.4,27.9,8,85.7,0,Lowest,Lowest
+05000US51087,"Henrico County, Virginia",County,39.1,66.2,2.51,68024,7.1,14.3,8.3,8.9,6.8,45,31.6,37.1,6.5,86.3,0,Medium_Low,Medium
+05000US51095,"James City County, Virginia",County,47,41.9,2.49,91674,3.4,5.3,4.4,4.9,2.5,57.8,24.6,25.6,17.9,90,0,Lowest,Lowest
+05000US51107,"Loudoun County, Virginia",County,36.8,46.2,3.08,151800,3.3,2.6,2.2,3,4.7,67.4,24.6,29.6,7.9,95.4,0,Lowest,Lowest
+05000US51121,"Montgomery County, Virginia",County,30,57.1,2.45,60045,5.6,15.1,3.8,23.1,5.7,45.9,43.2,49.6,5.3,91.2,0,Lowest,Lowest
+05000US51153,"Prince William County, Virginia",County,35.6,46.6,3.25,106861,3.7,8.5,3.7,6.3,11.3,59.5,30.4,35.3,12.7,95.8,0,Lowest,Highest
+05000US51161,"Roanoke County, Virginia",County,44.1,70.4,2.45,71715,5.2,7,3.4,6.2,5.2,52.7,25.1,28.1,8.6,87.1,0,Lowest,Lowest
+05000US51165,"Rockingham County, Virginia",County,41.6,73.2,2.63,69423,4,11.3,3.7,7.1,8.4,59.4,24.6,28.2,7.5,81.5,0,Lowest,Medium
+05000US51177,"Spotsylvania County, Virginia",County,38.1,53.1,2.93,91073,6.4,7.4,9,6.4,7.3,56,27.4,33.2,13.1,91.5,0,Lowest,Medium
+05000US51179,"Stafford County, Virginia",County,36.7,43.6,3.1,110446,5.1,7.8,4.6,5.9,7.3,65.2,26.5,36.3,17.3,94.5,0,Lowest,Medium
+05000US51199,"York County, Virginia",County,41.3,41.7,2.56,91241,2.4,5,8.5,5.8,4.1,57.5,17.9,26.3,20.3,90.6,0,Lowest,Lowest
+16000US5101000,"Alexandria city, Virginia",City,37.1,28.1,2.23,103284,3.5,14.2,3.1,8.6,8.3,35.9,37.5,43.9,8.6,92.1,0,Lowest,Medium
+16000US5103000,"Arlington CDP, Virginia",City,35,28.3,2.08,119755,2.2,11.7,9.3,8.6,5.6,37.4,41.6,47.9,6.5,92.5,0,Lowest,Lowest
+16000US5114440,"Centreville CDP, Virginia",City,36.6,46.9,2.85,126859,2.7,1.3,5.8,1.7,7.8,63.9,22.5,36,5.8,98.3,0,Lowest,Medium
+16000US5116000,"Chesapeake city, Virginia",City,37.8,57.1,2.76,77847,8.7,12.9,3.8,8,7.6,54.3,28.4,35.5,12.5,91.4,0,Medium_Low,Medium
+16000US5121088,"Dale City CDP, Virginia",City,35.2,56.8,3.58,95602,3.6,8,7.4,5.6,13.8,59.5,37.5,36.1,8.4,96.3,0,Lowest,Highest
+16000US5135000,"Hampton city, Virginia",City,35.7,52.6,2.33,56930,11,21,6.3,13.8,6.6,39,33.8,38.2,16.3,85.9,0,Medium_High,Medium
+16000US5147672,"Lynchburg city, Virginia",City,28.2,57.7,2.51,54850,9.2,12.1,5.8,14.8,8.4,40.5,44.3,54.4,7.7,93.2,0,Medium_Low,Medium
+16000US5156000,"Newport News city, Virginia",City,33.4,53.7,2.41,53029,12.1,23.3,12.1,14.8,10.2,34.3,36.7,43.6,14.1,85.8,0,Medium_High,Highest
+16000US5157000,"Norfolk city, Virginia",City,31.1,54.8,2.45,53093,14.5,28.9,10.4,17.9,10.6,33.3,42,53.6,14.1,82.9,0,Highest,Highest
+16000US5164000,"Portsmouth city, Virginia",City,36.7,65,2.49,51195,12.9,29.4,9.4,19.2,7.4,32.3,32.9,47.6,11.3,87.7,0,Medium_High,Medium
+16000US5167000,"Richmond city, Virginia",City,34.2,67,2.44,51285,13.9,24.1,13.6,18.9,11.6,27.6,51.6,56.2,5.3,82.1,0,Medium_High,Highest
+16000US5168000,"Roanoke city, Virginia",City,37.8,72.2,2.39,45838,14.3,32.6,12.7,20.6,9.4,30.4,36.1,45.1,8.4,78.5,0,Medium_High,Medium
+16000US5176432,"Suffolk city, Virginia",City,37.9,63.5,2.65,80481,14,13.8,5.2,8.4,5.7,51.3,29.1,30.3,15.1,84,0,Medium_High,Lowest
+16000US5182000,"Virginia Beach city, Virginia",City,36.6,47.6,2.52,79054,5.6,8.8,4.6,6.8,6.4,51.4,25.9,34.2,17.4,92.8,0,Lowest,Medium

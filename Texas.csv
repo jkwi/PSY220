@@ -1,0 +1,117 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US48005,"Angelina County, Texas",County,37.2,86.3,2.6,53320,18.4,18.5,6.2,14.2,17.6,51.2,23,28.7,8.4,86.8,0,Highest,Highest
+05000US48021,"Bastrop County, Texas",County,36.9,73.5,3.27,57938,12.4,36.8,7.4,19.7,22.4,51.2,27.4,36,10.3,75.6,0,Medium_High,Highest
+05000US48027,"Bell County, Texas",County,31.5,51,2.76,54560,13.1,17.7,9.4,14.4,15,46.5,31.6,33.7,20.7,87.9,0,Medium_High,Highest
+05000US48029,"Bexar County, Texas",County,34.1,71.3,3.05,58964,13.8,23,12.1,15.2,16.9,42.9,35.1,42.5,9.2,85.2,0,Medium_High,Highest
+05000US48037,"Bowie County, Texas",County,38.3,68.9,2.49,51802,10.4,20.6,10.2,16.1,15.6,47.4,25.3,32.7,9.2,78.2,0,Medium_High,Highest
+05000US48039,"Brazoria County, Texas",County,36.6,78.3,2.8,84904,5.3,9.4,4.3,7.4,14.5,55.5,26.9,33,5.3,90.5,0,Lowest,Highest
+05000US48041,"Brazos County, Texas",County,26.9,72.7,2.66,55121,9.7,20.9,7.2,20.8,12.7,39.8,46,50.8,4.9,82.7,0,Medium_Low,Highest
+05000US48061,"Cameron County, Texas",County,31.9,88.2,3.25,41123,26.3,37.1,18.3,25.6,30,49.3,28.9,36.8,4,71.8,0,Highest,Highest
+05000US48085,"Collin County, Texas",County,37.3,56.1,2.83,96134,2.7,7.1,7.6,6.3,11.1,59.7,26.6,31.4,5.2,94.3,0,Lowest,Highest
+05000US48091,"Comal County, Texas",County,42.4,63.1,2.72,89315,6.7,3.6,6,5.6,10,62.3,23.6,28.1,13,94.2,0,Medium_Low,Medium
+05000US48099,"Coryell County, Texas",County,32.8,51.2,2.75,53504,6.5,11.8,14.3,10.5,11.9,50.7,26.6,40.9,19.6,86.7,0,Lowest,Highest
+05000US48113,"Dallas County, Texas",County,33.7,71.7,2.77,61796,10,21.3,11.8,13.9,22.9,42.8,35.9,41.1,4.3,84.8,0,Medium_Low,Highest
+05000US48121,"Denton County, Texas",County,36,56.6,2.87,90523,3.8,7,6,6.5,11.7,56.5,29.7,34.7,6.2,95.3,0,Lowest,Highest
+05000US48135,"Ector County, Texas",County,31,78.7,3.1,67205,4.8,16,9.9,10.4,21.8,49,30.7,40.8,4.7,78.8,0,Lowest,Highest
+05000US48139,"Ellis County, Texas",County,36.6,74.1,2.98,78797,7,13.7,3.9,8.8,16.3,60.1,24.5,29.3,9.2,89.8,0,Medium_Low,Highest
+05000US48141,"El Paso County, Texas",County,32.6,76.3,3.06,48903,22.1,26.6,17,18.8,22.2,44.7,33.2,40.7,7.2,84.6,0,Highest,Highest
+05000US48157,"Fort Bend County, Texas",County,36.8,67.9,3.18,101293,6.5,6.1,8.2,6.3,13.4,66.3,27,30.8,4.6,93.5,0,Lowest,Highest
+05000US48167,"Galveston County, Texas",County,38.2,71.2,2.65,74977,10.7,15.4,7,10.9,14.2,51.5,27.3,31.9,7.8,92,0,Medium_High,Highest
+05000US48181,"Grayson County, Texas",County,40.2,68.7,2.73,57476,11.5,17.1,6.1,11.2,19.5,48.8,22.5,35.1,10.1,80.2,0,Medium_High,Highest
+05000US48183,"Gregg County, Texas",County,36.3,77.7,2.6,53793,12.1,27,7.2,17.8,19.8,46.5,26,38.6,7.1,87,0,Medium_High,Highest
+05000US48187,"Guadalupe County, Texas",County,37.6,62.7,2.95,79768,5.6,8.7,6.1,5.5,13.5,59,22.5,31.4,14.6,89.5,0,Lowest,Highest
+05000US48201,"Harris County, Texas",County,33.9,72.5,2.84,61618,11.2,21.7,11.1,15.1,22.4,46.2,33.7,40.1,4.5,87.8,0,Medium_High,Highest
+05000US48203,"Harrison County, Texas",County,39.5,70.7,2.7,58817,17.1,38,9.5,21.9,17.8,50.1,25.9,33.9,7.1,73,0,Highest,Highest
+05000US48209,"Hays County, Texas",County,32.6,71.9,2.87,72058,7.2,13.2,7.5,12.7,13.6,52.1,36,41.6,6.5,91.3,0,Medium_Low,Highest
+05000US48213,"Henderson County, Texas",County,44.4,76.8,2.66,51521,13.1,37.4,7.1,18.4,20.1,48.9,19,30.7,7.9,75.6,0,Medium_High,Highest
+05000US48215,"Hidalgo County, Texas",County,29.6,86.8,3.47,41800,27.1,38.3,24.3,27.3,32.2,52.6,33.2,40.4,2.9,73.2,0,Highest,Highest
+05000US48231,"Hunt County, Texas",County,38.5,73.1,2.73,58063,13.8,22,4.5,15.8,15.2,50.4,24.6,34.7,8.8,85,0,Medium_High,Highest
+05000US48245,"Jefferson County, Texas",County,37.1,77.7,2.64,55797,12.6,25.5,10.5,16.6,20.4,44.3,33.5,37.2,7.2,86.2,0,Medium_High,Highest
+05000US48251,"Johnson County, Texas",County,37,72.2,2.93,66319,8.7,18.4,8.1,12.1,18.3,56.1,21.1,29.3,5.4,89.7,0,Medium_Low,Highest
+05000US48257,"Kaufman County, Texas",County,35.1,76.7,3.38,75775,10.3,14.9,7.7,10.5,13.4,60.3,26.3,31.1,7.4,85,0,Medium_High,Highest
+05000US48291,"Liberty County, Texas",County,35.1,79.9,2.97,50049,13.4,14,12.7,13.7,22.3,49.9,27.9,30,8.7,83.7,0,Medium_High,Highest
+05000US48303,"Lubbock County, Texas",County,31,77.8,2.54,55003,12.2,24.1,8.6,18.5,14,43.3,35.2,43.2,5.6,83.9,0,Medium_High,Highest
+05000US48309,"McLennan County, Texas",County,33.9,80,2.66,50845,10.1,23.7,10.2,18.7,13.1,45.9,34.2,38.3,6.6,84.2,0,Medium_Low,Highest
+05000US48329,"Midland County, Texas",County,32.4,70.4,2.95,82558,6,11.5,13.8,10.7,16,49.6,26.4,38.5,6.5,81.7,0,Lowest,Highest
+05000US48339,"Montgomery County, Texas",County,37.7,62.3,2.89,88695,6.2,14.1,7.5,9.1,13.8,60.9,24,29.8,6.9,92.8,0,Lowest,Highest
+05000US48347,"Nacogdoches County, Texas",County,31.5,82.4,2.42,47572,16.4,24.7,10.3,21.3,13,42,38.1,41.4,7.5,79.8,0,Highest,Highest
+05000US48355,"Nueces County, Texas",County,35.9,82.5,2.7,56789,15.3,22.5,15.7,16.1,17.5,44.5,28.8,37.9,8.4,86.8,0,Highest,Highest
+05000US48361,"Orange County, Texas",County,37.7,73.8,2.59,69052,10.2,16,8.1,11.2,13.6,57,22,28.8,7.4,88.8,0,Medium_High,Highest
+05000US48367,"Parker County, Texas",County,40.1,72.4,3.24,83262,5.4,8.7,10.3,8.4,14,65.8,25.3,27.9,8.4,85.5,0,Lowest,Highest
+05000US48375,"Potter County, Texas",County,34,72.8,2.51,37297,13.6,25.6,19.3,21,23.9,37.4,30.7,36.2,7,85.5,0,Medium_High,Highest
+05000US48381,"Randall County, Texas",County,36.6,72.9,2.69,70651,5.2,14.2,8.4,9.4,8.5,53.5,25.5,28.4,9.7,91.9,0,Lowest,Medium
+05000US48397,"Rockwall County, Texas",County,37.6,61.1,2.84,103378,4.7,5.9,2.1,4.5,12.5,64.5,23.7,26.6,8.5,97.4,0,Lowest,Highest
+05000US48409,"San Patricio County, Texas",County,36.7,81.6,3.01,57899,12.1,14.8,8.1,12.7,14.5,47.4,35.1,37.7,7,75.9,0,Medium_High,Highest
+05000US48423,"Smith County, Texas",County,36.6,73.9,2.88,59584,8.3,14.1,8.7,12.4,17,50.6,26.9,35.1,6.3,82,0,Medium_Low,Highest
+05000US48439,"Tarrant County, Texas",County,34.8,65.9,2.86,70139,9.4,13.9,8.3,10.2,16.7,50.2,31.2,36.1,6.9,91,0,Medium_Low,Highest
+05000US48441,"Taylor County, Texas",County,32.9,70.7,2.61,55351,12.7,18.2,8.9,14,17.2,48.4,31.7,36.7,9.8,84.7,0,Medium_High,Highest
+05000US48451,"Tom Green County, Texas",County,34.9,74.4,2.59,55988,10,16.2,10.3,12.1,12.3,48.5,29.1,34.1,10,87.9,0,Medium_Low,Highest
+05000US48453,"Travis County, Texas",County,34.8,61.9,2.45,80726,6.7,14.1,8,10.9,14.1,43.4,35.8,42.5,4.9,90.4,0,Medium_Low,Highest
+05000US48469,"Victoria County, Texas",County,36.6,87.4,3.02,57358,10.3,24.2,7,14.5,19.9,49.9,27.7,40.2,7.1,74.7,0,Medium_High,Highest
+05000US48471,"Walker County, Texas",County,36.7,81.6,2.62,47170,5.6,20.6,2.7,19.7,10.2,46.5,40.8,45.6,8.5,83.3,0,Lowest,Highest
+05000US48479,"Webb County, Texas",County,29.3,87.9,3.58,56084,21.8,28.5,18.8,20.5,28.7,54,35.5,40.7,2.6,80.2,0,Highest,Highest
+05000US48485,"Wichita County, Texas",County,34.8,67,2.47,51749,11.2,13.9,9.5,12.9,15.1,45.3,26.4,40.6,10.9,81.8,0,Medium_High,Highest
+05000US48491,"Williamson County, Texas",County,36.9,57.9,3.04,92179,4.4,6.1,4,5.5,10,57.6,28.7,34.5,8.6,95.3,0,Lowest,Medium
+05000US48497,"Wise County, Texas",County,38.8,74.6,3.02,71421,7.6,6.6,7.5,5.3,19.2,65.1,19.3,26.6,8.1,82.2,0,Medium_Low,Highest
+16000US4801000,"Abilene city, Texas",City,32.4,71.1,2.56,52997,14.3,18.3,9.9,15.1,16.2,46,33.7,41,9.3,84.3,0,Medium_High,Highest
+16000US4801924,"Allen city, Texas",City,39.5,55.4,3.05,101360,1.6,2.2,7.5,3.5,9.9,66,23.9,31.4,6.6,97.3,0,Lowest,Medium
+16000US4803000,"Amarillo city, Texas",City,34.7,73.1,2.57,49802,9.8,20.7,14.4,15.4,16.7,41.7,28,32.6,8.4,88.2,0,Medium_Low,Highest
+16000US4804000,"Arlington city, Texas",City,33.6,63,2.85,61716,9.9,16,7.6,12,18.4,45.3,34.1,40.2,6.7,92.7,0,Medium_Low,Highest
+16000US4804462,"Atascocita CDP, Texas",City,35.1,67.8,3.16,104388,1.2,1,4.7,3,8.2,70.8,24.8,30.9,6.3, ,0,Lowest,Medium
+16000US4805000,"Austin city, Texas",City,33.9,61.2,2.33,75413,7.2,16.4,9.2,12.2,13.7,37.1,39.2,47.7,4.2,89.2,0,Medium_Low,Highest
+16000US4806128,"Baytown city, Texas",City,34.1,79.4,2.83,57765,15,19.5,7.6,14,20.8,47.2,27.7,36.3,6.2,84.1,0,Highest,Highest
+16000US4807000,"Beaumont city, Texas",City,34.6,80.5,2.48,54488,13.3,28.2,11.4,16.7,19.9,38.9,36.6,38.4,7.2,85.6,0,Medium_High,Highest
+16000US4810768,"Brownsville city, Texas",City,31.1,90.7,3.3,41271,29.5,36.8,24.6,25.8,32.9,49.6,30.2,34.7,2.5,76.9,0,Highest,Highest
+16000US4810912,"Bryan city, Texas",City,31.5,79.7,2.64,49769,14.8,33.8,8.6,20.7,19.3,34.1,39.6,43.6,4.7,74.3,0,Highest,Highest
+16000US4813024,"Carrollton city, Texas",City,37,60.1,2.83,85830,2.4,7.7,6.3,6.2,15.5,54.5,28,34.4,4.4,91,0,Lowest,Highest
+16000US4813552,"Cedar Park city, Texas",City,38.2,48.5,3.21,101496,5.6,3,4.6,3.4,6.5,61.6,33.5,31.7,7.4,95,0,Lowest,Medium
+16000US4815976,"College Station city, Texas",City,23.6,67.6,2.63,52268,6.6,12.2,7.4,25,8.6,38.3,55,60.6,4.7,87.8,0,Medium_Low,Medium
+16000US4816432,"Conroe city, Texas",City,33,70.3,2.86,69077,8.3,26.5,5,13.9,20.9,44.8,29.8,40.3,6.2,90.1,0,Medium_Low,Highest
+16000US4817000,"Corpus Christi city, Texas",City,35.3,82.1,2.67,55564,15.4,24.3,16.7,17.2,18.1,44.1,30,38.1,8.8,87.7,0,Highest,Highest
+16000US4819000,"Dallas city, Texas",City,32.9,72.3,2.56,55332,11.6,27.8,13.9,17.5,24.6,35,40.5,46.4,3.5,81.6,0,Medium_High,Highest
+16000US4819972,"Denton city, Texas",City,29.5,64.7,2.86,66644,5.1,14.3,3.7,13.9,16.6,44.2,46.4,50.7,6.3,89.9,0,Lowest,Highest
+16000US4822660,"Edinburg city, Texas",City,29.1,84.9,3.18,46000,17,26.1,30.6,21.7,30.4,42,39.4,50.1,4.1,82,0,Highest,Highest
+16000US4824000,"El Paso city, Texas",City,32.9,75.4,3.02,48542,20.7,26.9,17.4,18.6,22,43.4,34.3,41.2,7.8,84.9,0,Highest,Highest
+16000US4826232,"Flower Mound town, Texas",City,41.2,48.1,3.05,139508,1.7,1.6,3.3,1.9,6.4,72.2,20,27,6.5,98,0,Lowest,Medium
+16000US4827000,"Fort Worth city, Texas",City,32.8,70.8,2.9,65356,12.1,16.2,10.3,11.9,19.4,48.6,34,37.2,5.8,89.1,0,Medium_High,Highest
+16000US4827684,"Frisco city, Texas",City,36,47.5,2.95,116884,2.9,2.4,3.9,3.5,8.4,65.8,22.6,27.8,3.7,97.3,0,Lowest,Medium
+16000US4829000,"Garland city, Texas",City,33.7,71.9,3.3,62556,9.3,20,10.5,12.7,26.6,55.2,30.5,36.8,5,90.6,0,Medium_Low,Highest
+16000US4829336,"Georgetown city, Texas",City,44.6,56.1,2.6,73552,7.1,15.4,2.3,9,8.2,50.3,26.5,26,12,92.6,0,Medium_Low,Medium
+16000US4830464,"Grand Prairie city, Texas",City,32.2,72.3,3.13,66097,8.9,18.4,9.8,10.7,18.3,50.9,33.5,35.2,5.3,90.2,0,Medium_Low,Highest
+16000US4832372,"Harlingen city, Texas",City,30.8,81.4,2.76,36868,22.2,54,18,34.5,21.9,35.9,32.1,48,7.3,65.6,0,Highest,Highest
+16000US4835000,"Houston city, Texas",City,33.4,74.2,2.6,52450,12.9,28.9,15.4,19.7,25.2,38,38.6,44.3,3.8,85,0,Medium_High,Highest
+16000US4837000,"Irving city, Texas",City,32,67.3,2.86,67263,5.8,14,9.4,10.3,22.7,47.9,34.7,37.3,3,88.5,0,Lowest,Highest
+16000US4839148,"Killeen city, Texas",City,29.4,39.4,2.65,48622,15.5,19.8,11.5,16.3,16.7,41.5,32.9,31.8,28.7,87.1,0,Highest,Highest
+16000US4841464,"Laredo city, Texas",City,29.2,88.1,3.57,57468,21.1,27.2,18.3,19.5,28.6,54,35.3,40.6,2.7,81.6,0,Highest,Highest
+16000US4841980,"League City city, Texas",City,35.7,65.9,2.73,115650,1.1,.5,3.5,1.6,5.4,64,20.8,29.2,7.3,96.1,0,Lowest,Lowest
+16000US4842016,"Leander city, Texas",City,34.3,60,3.34,117892,3.8,1.8,.6,2.1,10,71.9,25.2,34.2,7.7,95.7,0,Lowest,Medium
+16000US4842508,"Lewisville city, Texas",City,34.9,57.5,2.63,65836,8.5,14.2,11.1,8.3,16.2,40.3,35.7,39,5.3,95.5,0,Medium_Low,Highest
+16000US4843888,"Longview city, Texas",City,34.4,75.1,2.63,53987,13.3,30.6,7.4,19.3,23.1,43.9,28.3,44,5.4,88.8,0,Medium_High,Highest
+16000US4845000,"Lubbock city, Texas",City,29.8,77.6,2.49,52254,12.1,26.4,9.6,20.6,14.1,40,37.8,45.6,5.3,83.1,0,Medium_High,Highest
+16000US4845384,"McAllen city, Texas",City,35.3,85,3.02,46319,18.9,31.4,12.9,20.7,26.5,47.6,32.5,38.6,4.2,85.7,0,Highest,Highest
+16000US4845744,"McKinney city, Texas",City,37.2,54.2,2.88,89828,2.2,11.9,5,7.7,10.4,59.8,24.9,26.2,6.1,89.5,0,Lowest,Highest
+16000US4846452,"Mansfield city, Texas",City,35.2,63.9,3.25,105182,5.2,5.8,5.6,4.2,4.9,63.6,29.9,28.7,8.6,94.3,0,Lowest,Lowest
+16000US4847892,"Mesquite city, Texas",City,39.2,75.3,2.83,61047,11.9,9,7.4,7.1,21.7,46.3,29.6,35.8,5.9,88.4,0,Medium_High,Highest
+16000US4848072,"Midland city, Texas",City,32.3,70.9,3.01,84955,5.4,12.3,11.8,10.6,15.2,49.3,27.3,40.9,6.9,84,0,Lowest,Highest
+16000US4848768,"Mission city, Texas",City,32.2,86.6,3.4,54793,19.7,26.2,13.6,17.6,30.6,51.8,32,40.3,1.7,88.2,0,Highest,Highest
+16000US4848804,"Missouri City city, Texas",City,42.3,66.4,2.98,86486,3.7,1.5,2.8,1.9,10.3,61.8,27.1,34.2,6.3,95.4,0,Lowest,Highest
+16000US4850820,"New Braunfels city, Texas",City,35.1,68.1,2.69,81131,7.6,4.7,8.2,5.7,12.5,54.2,28.9,30.2,9.7,92,0,Medium_Low,Highest
+16000US4852356,"North Richland Hills city, Texas",City,40.4,56.8,2.6,75830,3.1,5.6,3.9,5.3,9.6,56.3,22.5,24.9,9.2,96,0,Lowest,Medium
+16000US4853388,"Odessa city, Texas",City,30.9,80.1,2.87,66316,4.9,10.8,11,8.2,16.8,45.7,29.4,41,5.5,80.2,0,Lowest,Highest
+16000US4856000,"Pasadena city, Texas",City,32.7,81.2,3.15,53819,14,29.4,7.2,17.2,28.3,51.3,32.1,36.3,4.9,90.5,0,Medium_High,Highest
+16000US4856348,"Pearland city, Texas",City,36.1,78,2.78,106757,1.7,2.5,1.9,3.7,7.9,64,20.5,28.3,4.9,96.6,0,Lowest,Medium
+16000US4857176,"Pflugerville city, Texas",City,36.6,62.7,2.95,90329,7.6,4.7,7.5,6.9,13.7,61.7,27.6,27.3,7.2,96.5,0,Medium_Low,Highest
+16000US4857200,"Pharr city, Texas",City,28.8,84.5,3.42,36342,37.4,49.6,33.8,38.1,34.5,51,32.6,38.3,3,40.3,0,Highest,Highest
+16000US4858016,"Plano city, Texas",City,39.4,53.5,2.65,93321,2.9,9.2,11,7.5,10.9,56.5,26.2,33.5,4.9,95.4,0,Lowest,Highest
+16000US4861796,"Richardson city, Texas",City,35,62.3,2.73,91118,4.2,11.4,9.1,11.5,13.6,54.1,30.7,39.8,5.4,96.7,0,Lowest,Highest
+16000US4863500,"Round Rock city, Texas",City,33.7,60.2,3.12,86145,2.6,8,2.9,6,10.4,54.2,33.8,39.7,6.9,97.3,0,Lowest,Highest
+16000US4863572,"Rowlett city, Texas",City,40.8,67.4,3.03,100465,3.7,11.7,4.4,8,14.3,67.4,25.1,25.4,10.5,97.6,0,Lowest,Highest
+16000US4864472,"San Angelo city, Texas",City,35.3,74.5,2.49,54972,9.6,18.3,10.5,12.9,12.1,46.1,29.1,36.8,10,88.2,0,Medium_Low,Highest
+16000US4865000,"San Antonio city, Texas",City,34.4,73.7,2.98,53751,15.6,25.6,13.6,16.8,18.5,39.4,36.1,43.9,8.2,83.1,0,Highest,Highest
+16000US4870808,"Sugar Land city, Texas",City,42.7,67.8,2.95,127598,2.4,3.7,4.8,3.5,8.2,70.4,23.7,30,4.5,95.8,0,Lowest,Medium
+16000US4872176,"Temple city, Texas",City,33.9,68.1,2.66,55792,14.9,23.1,9.1,15.6,14.2,41.6,30.9,30.3,11.5,87.7,0,Highest,Highest
+16000US4872656,"The Woodlands CDP, Texas",City,41.2,46.1,2.79,127469,2.1,7.6,6.5,4.4,8.3,64.6,23.8,27.8,4.1,95.4,0,Lowest,Medium
+16000US4874144,"Tyler city, Texas",City,35.2,73.5,2.71,52294,8.5,16.6,10,12.6,17.6,43.7,32.2,42.1,5.4,80.9,0,Medium_Low,Highest
+16000US4875428,"Victoria city, Texas",City,35.1,88.2,3.02,55968,11.9,30.5,8.7,17.5,20.7,43.7,31.6,41.3,6,74.4,0,Medium_High,Highest
+16000US4876000,"Waco city, Texas",City,28.9,79.9,2.59,41481,12.6,32.1,15.2,25.8,14.3,37.3,42.9,48.7,5.7,84.1,0,Medium_High,Highest
+16000US4879000,"Wichita Falls city, Texas",City,32.9,67,2.46,48861,13.6,16.8,9.8,14.7,15.7,40.7,29.4,44.3,9.8,83,0,Medium_High,Highest

@@ -1,0 +1,100 @@
+﻿GEOID,GEONAME,CountyCity,MedianAge,LiveInStateWhereBorn,HouseholdSize,Income,Foodstamps,People18Poverty,People65Poverty,PeopleAllPoverty,NoHealthInsurance,MarriedCoupleHousehold,WomenNeverMarried,MenNeverMarried,Veterans,HasBroadband,filter_$,FSGroups,HIGroups
+05000US12001,"Alachua County, Florida",County,32.6,59.5,2.47,49534,7.5,15.6,9.3,18.6,8.8,37.3,45.4,47.2,7,88,0,Medium_Low,Medium
+05000US12005,"Bay County, Florida",County,41.4,41.9,2.49,59450,12.2,12.2,8.9,10.3,12.6,48,25,32.8,13.2,88.7,0,Medium_High,Highest
+05000US12009,"Brevard County, Florida",County,47.2,34.1,2.59,57305,8.6,10.1,7,8.7,10.6,47.8,24.8,32.1,14.4,89.9,0,Medium_Low,Highest
+05000US12011,"Broward County, Florida",County,40.9,53.7,2.74,61502,11.3,16.3,14.2,12.2,15.3,41.8,31.8,38.9,4.5,88.1,0,Medium_High,Highest
+05000US12015,"Charlotte County, Florida",County,60.2,20.9,2.43,54652,6.8,22.9,6.3,12,10.9,52.8,16.1,25,13.3,88,0,Medium_Low,Highest
+05000US12017,"Citrus County, Florida",County,57.2,30.5,2.28,50751,10.3,25.2,8.8,15.7,11.9,52.8,18.8,25.4,13.2,85.9,0,Medium_High,Highest
+05000US12019,"Clay County, Florida",County,40.8,45.3,2.87,76687,7,12.5,4.6,8.5,9.6,60.2,23.1,27.5,16.2,93.8,0,Medium_Low,Medium
+05000US12021,"Collier County, Florida",County,51.8,30.9,2.71,76025,6.5,11.5,8,9.3,13.1,58.8,19.1,25,7.4,88.8,0,Lowest,Highest
+05000US12023,"Columbia County, Florida",County,40.2,63.6,2.65,47094,15.9,15.4,6.6,14.1,15.7,43.4,27.2,41.5,10.7,82.1,0,Highest,Highest
+05000US12031,"Duval County, Florida",County,36.4,54.3,2.53,58415,11.9,19.4,13.5,13.6,12.7,40,33.3,39.6,10.7,88.4,0,Medium_High,Highest
+05000US12033,"Escambia County, Florida",County,37.3,50,2.49,53136,14.4,24.7,9.3,15.3,12.7,39.3,31.6,41.8,14,84,0,Highest,Highest
+05000US12035,"Flagler County, Florida",County,52.2,28.4,2.58,60204,6.2,15.7,6.5,10.4,13.2,56.8,21.8,26.2,11.4,76.4,0,Lowest,Highest
+05000US12053,"Hernando County, Florida",County,49.1,34.4,2.44,51031,13.6,18.5,8.6,12.3,11.8,51,20.4,26.6,13.7,90.5,0,Medium_High,Highest
+05000US12055,"Highlands County, Florida",County,54.2,44,2.41,48698,14.8,22.2,8.7,14.4,11.6,48.7,21.1,23.8,10.8,78.4,0,Highest,Highest
+05000US12057,"Hillsborough County, Florida",County,37.8,48.3,2.68,61154,11.4,18.4,13,13.5,13.1,43,32.9,39.5,7.6,91,0,Medium_High,Highest
+05000US12061,"Indian River County, Florida",County,54.5,36.5,2.47,59782,6.9,25,6.1,12.3,13.2,53,22,26.3,11.4,84.1,0,Medium_Low,Highest
+05000US12069,"Lake County, Florida",County,47.1,39.1,2.61,57588,10.9,21,6.6,11.2,11.1,52.7,24.3,28.8,11.8,87.4,0,Medium_High,Highest
+05000US12071,"Lee County, Florida",County,49.3,31.5,2.65,62240,6.9,19.1,6.9,11.3,12.2,51.9,23.5,28.8,8.5,89.8,0,Medium_Low,Highest
+05000US12073,"Leon County, Florida",County,31.3,62.6,2.39,54929,12.6,24.3,12.6,21.9,9.3,34.5,45,49.3,5.5,89.1,0,Medium_High,Medium
+05000US12081,"Manatee County, Florida",County,49.4,36.6,2.75,64499,8.4,21.2,9.1,11.5,12.3,52.3,24.8,31.8,9.5,87.9,0,Medium_Low,Highest
+05000US12083,"Marion County, Florida",County,48.9,42.3,2.45,49576,12.6,26.6,8.1,15,12.5,52.2,24.3,28.2,12.3,87.6,0,Medium_High,Highest
+05000US12085,"Martin County, Florida",County,53.3,32.9,2.42,70842,7.9,7.1,5.7,7.4,8.6,47.8,19.8,30.4,11,87.7,0,Medium_Low,Medium
+05000US12086,"Miami-Dade County, Florida",County,40.5,71.3,2.93,55171,21.7,20.5,21.7,15.6,16.3,43.8,33.1,38.9,2.1,80.3,0,Highest,Highest
+05000US12087,"Monroe County, Florida",County,48.3,37.3,2.2,68589,6.7,6.5,14.6,8.7,20.4,44.3,21.9,31.4,9.3,85,0,Medium_Low,Highest
+05000US12089,"Nassau County, Florida",County,46.5,44.3,2.49,70939,9.3,13.9,5.5,9.9,8.5,59,17,22.8,13.5,90.8,0,Medium_Low,Medium
+05000US12091,"Okaloosa County, Florida",County,37.2,36.4,2.69,64222,6.6,18.2,7,11.4,13.5,50.3,26.7,34.5,19.1,88.6,0,Medium_Low,Highest
+05000US12095,"Orange County, Florida",County,35.6,45.1,2.98,63461,12.9,18.1,11.4,12.6,13.4,46,35.4,42.2,5.3,90.2,0,Medium_High,Highest
+05000US12097,"Osceola County, Florida",County,36,31.4,3.35,51760,15.9,19.3,10.2,14.5,13.3,48.7,38.2,41.1,6.2,86.9,0,Highest,Highest
+05000US12099,"Palm Beach County, Florida",County,45.2,42.1,2.59,66623,9.1,15.9,9.8,11.4,13.9,45.5,28.1,35,6.2,87.6,0,Medium_Low,Highest
+05000US12101,"Pasco County, Florida",County,44.3,39.2,2.57,55828,11.1,16.7,9.8,11.3,12.9,50.1,23.3,31.1,10.5,86.9,0,Medium_High,Highest
+05000US12103,"Pinellas County, Florida",County,48.9,37.4,2.42,56737,8.3,13.1,11.4,11.2,11.4,41.7,26.7,34.8,9.7,87.1,0,Medium_Low,Highest
+05000US12105,"Polk County, Florida",County,40.2,45.9,2.98,51833,13.8,21.2,9.5,14,13.9,47.3,33,36.5,9.1,81.6,0,Medium_High,Highest
+05000US12107,"Putnam County, Florida",County,46.6,57.6,2.37,42899,16.4,36.2,11.8,22.9,16.1,39.9,23.1,33.9,12.1,83.1,0,Highest,Highest
+05000US12109,"St. Johns County, Florida",County,44,36.8,2.77,90356,5.2,6.1,5,6.4,8.5,59.3,23.1,27.8,10.6,90,0,Lowest,Medium
+05000US12111,"St. Lucie County, Florida",County,45.2,43.9,2.78,58039,12.5,10,8.4,9.7,14.3,49.3,27.4,32.7,9.5,89.1,0,Medium_High,Highest
+05000US12113,"Santa Rosa County, Florida",County,40.4,39.6,2.69,64930,7,11.7,11.4,10.1,10.4,56.6,20.9,28.5,15.8,91.4,0,Medium_Low,Highest
+05000US12115,"Sarasota County, Florida",County,57.3,26.9,2.28,66342,5.2,6.8,5.2,7,10.7,50.2,19.9,25.7,10.9,88.5,0,Lowest,Highest
+05000US12117,"Seminole County, Florida",County,39.5,41,2.58,70190,8.4,11.3,6.2,9.3,9.1,50.6,28,33.6,7.4,92.3,0,Medium_Low,Medium
+05000US12119,"Sumter County, Florida",County,68.9,21.1,2.06,60287,4.1,6.8,7.2,8.1,7.1,60,8.9,18.7,16.8,89.4,0,Lowest,Medium
+05000US12127,"Volusia County, Florida",County,47,39.2,2.47,53766,12.2,19.9,8.7,12.9,13.2,46.1,23.9,34.2,10.9,85.3,0,Medium_High,Highest
+05000US12131,"Walton County, Florida",County,43.3,44.6,2.74,60457,8.8,11.3,6.7,9.2,12.5,52.2,14.3,27.8,12.1,84.8,0,Medium_Low,Highest
+16000US1200410,"Alafaya CDP, Florida",City,32.6,36.7,3.14,75384,8.7,3.1,12.3,6.9,11,52.9,25.5,37.5,6.1,95,0,Medium_Low,Highest
+16000US1207300,"Boca Raton city, Florida",City,47.6,34.7,2.35,88828,2.8,13.2,8.3,11.2,6.5,41.8,29.3,36.5,4.9,90.9,0,Lowest,Medium
+16000US1207875,"Boynton Beach city, Florida",City,42.7,43.4,2.45,65182,7.9,13.9,7.9,9.3,16.9,40.8,27.7,38,5.4,85,0,Medium_Low,Highest
+16000US1208150,"Brandon CDP, Florida",City,37.8,43.3,2.64,60359,6.5,19.4,10,12.7,13.4,38.7,31.8,47.6,8.5,94.7,0,Lowest,Highest
+16000US1210275,"Cape Coral city, Florida",City,46.4,27.2,2.89,68282,5.5,12.8,6.2,7.4,11.9,56.8,23.6,29.7,7.5,94.7,0,Lowest,Highest
+16000US1212875,"Clearwater city, Florida",City,47.1,36.5,2.35,52431,10.6,16.3,15.5,13.6,10.2,42.6,28.5,30.7,9.4,86.1,0,Medium_High,Highest
+16000US1214400,"Coral Springs city, Florida",City,36.4,49.4,3.24,79115,8.5,15.3,9.9,9.8,12.2,55.6,29,39,4.2,93.9,0,Medium_Low,Highest
+16000US1216475,"Davie town, Florida",City,35.2,54.7,2.93,71112,9.9,10.2,11.2,10.2,12.2,43.5,34.3,39.1,4.9,95.2,0,Medium_Low,Highest
+16000US1216525,"Daytona Beach city, Florida",City,42.7,48.7,2.27,40439,14.8,57.6,13.2,22.8,18.6,29.6,38.6,42.8,7.7,79.5,0,Highest,Highest
+16000US1216725,"Deerfield Beach city, Florida",City,46.4,46.2,2.38,47563,10.9,23.3,9.4,17.8,20.2,37.3,28.1,34.5,6.2,88,0,Medium_High,Highest
+16000US1217100,"Delray Beach city, Florida",City,47.7,34.9,2.39,66766,7.2,16.9,9.2,13.2,14.1,36.8,34.7,42.3,5.4,85.2,0,Medium_Low,Highest
+16000US1217200,"Deltona city, Florida",City,37,38.8,2.91,56505,15.6,14,9.6,11,9.7,51.2,29.7,33.3,8.8,89.8,0,Highest,Medium
+16000US1217935,"Doral city, Florida",City,38.8,64.7,3.33,77704,8.7,23.1,11.6,14.5,17.1,63.4,24.6,26.6,1.7,93.4,0,Medium_Low,Highest
+16000US1224000,"Fort Lauderdale city, Florida",City,41.1,47.9,2.34,67750,10.7,27.1,13.1,15.6,17.2,34.2,36.8,45.1,5.4,86.1,0,Medium_High,Highest
+16000US1224125,"Fort Myers city, Florida",City,37.9,43.1,2.69,53246,11.6,25.4,10.5,17.8,15.3,40.8,35,38.9,8.1,87.7,0,Medium_High,Highest
+16000US1224562,"Fountainebleau CDP, Florida",City,39.1,74.3,3,65107,17.5,13.3,23.4,11.5,12,45.8,33,29.9,.9,89.8,0,Highest,Highest
+16000US1225175,"Gainesville city, Florida",City,27,59.9,2.32,39201,7.9,17.2,9.4,26.1,10.1,25.1,59.8,61.8,5.6,86.4,0,Medium_Low,Medium
+16000US1230000,"Hialeah city, Florida",City,44.9,86.6,3.05,40725,40.2,27.1,30.9,21.3,19.8,42.1,28.9,35.2,.9,75,0,Highest,Highest
+16000US1232000,"Hollywood city, Florida",City,41.4,52.4,2.78,55835,14.6,17,7.6,11.1,18.4,43.8,32.9,40.1,4.4,90.2,0,Highest,Highest
+16000US1232275,"Homestead city, Florida",City,31.5,72.6,3.4,52907,29.8,33.3,12.9,21.6,24.5,40.3,45.3,45.6,4.3,92.2,0,Highest,Highest
+16000US1235000,"Jacksonville city, Florida",City,36.1,55.2,2.54,56975,12.4,20.1,14.1,14.1,12.8,39.7,33.4,40.1,10.7,88.2,0,Medium_High,Highest
+16000US1235875,"Jupiter town, Florida",City,46.4,33.4,2.43,92233,3.2,7.9,4.9,9.5,11.8,51.6,18.3,33.2,9.1,93,0,Lowest,Highest
+16000US1236100,"Kendall CDP, Florida",City,42.2,64.6,2.76,73081,14.1,8,13.8,8,9.8,46.5,28.8,34,2.1,84.7,0,Medium_High,Medium
+16000US1236950,"Kissimmee city, Florida",City,35.6,26.9,3.18,39661,24.1,47.4,22.3,28.3,13.7,36.1,44.3,41.6,5.6,78.8,0,Highest,Highest
+16000US1238250,"Lakeland city, Florida",City,39.7,47.4,2.67,47902,15.6,22.9,10.1,15.8,12.3,40.4,33.6,41.5,8.6,77.5,0,Highest,Highest
+16000US1239425,"Largo city, Florida",City,48.9,32.8,2.49,47427,11.8,17.3,10.4,12.5,13.6,35.8,29.9,36.7,10.2,84,0,Medium_High,Highest
+16000US1239550,"Lauderhill city, Florida",City,36.2,73.1,2.9,41707,19.6,25.2,10.2,15.4,16.6,27.6,38.9,39.6,6.1,82.2,0,Highest,Highest
+16000US1239925,"Lehigh Acres CDP, Florida",City,37.4,51.4,3.48,46361,15.2,28.8,23.8,22.4,18.3,45.2,31.3,38.3,4.9,85.8,0,Highest,Highest
+16000US1243975,"Melbourne city, Florida",City,43,34.5,2.54,47933,8.9,19.8,5.9,12.7,12.8,39.6,31.5,40.6,13.8,87.3,0,Medium_Low,Highest
+16000US1245000,"Miami city, Florida",City,40.7,68,2.43,42966,26,25.6,31.7,20.3,19,33.1,37,40.6,1.6,70.8,0,Highest,Highest
+16000US1245025,"Miami Beach city, Florida",City,40.5,46.6,2.2,52816,14.5,19,16.5,14.4,24.2,39.5,29.7,37.4,1.8,81.1,0,Highest,Highest
+16000US1245060,"Miami Gardens city, Florida",City,36.3,83.9,3.38,43196,27,29.6,10,16.6,17.6,33.2,41,50.6,2.6,73.1,0,Highest,Highest
+16000US1245975,"Miramar city, Florida",City,36.1,76.2,3.54,75079,8.7,10.2,10.4,8.4,17.4,48,40.7,44.3,1.9,85.4,0,Medium_Low,Highest
+16000US1249675,"North Port city, Florida",City,47.9,31.6,2.71,56226,11.1,6.4,4.5,6.5,11.7,53.5,20.8,23.9,13.3,92.2,0,Medium_High,Highest
+16000US1253000,"Orlando city, Florida",City,34.6,46.8,2.61,58819,14,29.3,11,16,13.9,34.3,42,46.3,4.1,91.7,0,Medium_High,Highest
+16000US1254000,"Palm Bay city, Florida",City,43.3,38.8,2.99,54113,9.5,8.9,11.6,9.3,11.8,49.7,28,33.8,12.6,87.9,0,Medium_Low,Highest
+16000US1254200,"Palm Coast city, Florida",City,51.6,26.4,2.63,60158,5.7,12.8,6.1,9.5,13.1,57.6,22.5,25.1,11.9,75.9,0,Lowest,Highest
+16000US1255775,"Pembroke Pines city, Florida",City,40.7,62.2,3.01,67232,7.9,5.7,25.3,9.2,11.9,46.9,30.2,40.8,3.4,84.9,0,Medium_Low,Highest
+16000US1256825,"Pine Hills CDP, Florida",City,32.4,67.2,3.86,46155,30,23.6,16.1,17.4,17.4,45.2,42.3,51.8,2.9,79.7,0,Highest,Highest
+16000US1257425,"Plantation city, Florida",City,41.6,47.9,2.6,71977,5.6,11.9,5.6,7.3,11.1,43.1,29.6,33.1,5.4,94.7,0,Lowest,Highest
+16000US1257900,"Poinciana CDP, Florida",City,34.2,24.7,3.58,46898,24.5,20.8,2,16.1,14.3,51.6,43.1,38.1,3.8,85.9,0,Highest,Highest
+16000US1258050,"Pompano Beach city, Florida",City,46.3,50.3,2.44,53663,11.9,24.2,16.7,16.2,22.6,35.2,25.1,44,4.9,81.2,0,Medium_High,Highest
+16000US1258350,"Port Charlotte CDP, Florida",City,50.4,25.5,2.69,49547,12.8,31.6,12,17.5,13.5,51.2,23,34.1,10.2,86.2,0,Medium_High,Highest
+16000US1258715,"Port St. Lucie city, Florida",City,42.3,41.9,2.94,68041,8.4,4.2,4.9,6,10.4,56.3,26.6,29.8,9.7,94.6,0,Medium_Low,Highest
+16000US1260950,"Riverview CDP, Florida",City,37.8,39.7,2.7,73631,8.8,8.7,11.7,8.5,11.1,49.5,25.4,27.2,11,94.6,0,Medium_Low,Highest
+16000US1263000,"St. Petersburg city, Florida",City,43.8,43.6,2.35,61631,7.6,9.5,9.4,10.6,10.5,38.3,32.7,38.2,9.5,89.7,0,Medium_Low,Highest
+16000US1268350,"Spring Hill CDP, Florida",City,45.4,30.8,2.57,55461,13.7,14.8,7.2,9.8,10.8,52.1,20.9,29.1,12.4,94.3,0,Medium_High,Highest
+16000US1269700,"Sunrise city, Florida",City,44.6,53.5,2.4,53321,10.5,15.1,24.7,13.3,14.4,37.2,33.1,30.2,5,87.8,0,Medium_High,Highest
+16000US1270600,"Tallahassee city, Florida",City,26.8,63.4,2.33,46964,12.7,28.8,14.4,27.4,9.7,24.9,56.1,59.9,4.1,90,0,Medium_High,Medium
+16000US1270675,"Tamarac city, Florida",City,49.5,42.5,2.54,44400,13.4,20.1,16,13.9,10.9,34.4,25.9,37.7,7.6,82.1,0,Medium_High,Highest
+16000US1271000,"Tampa city, Florida",City,36,52.7,2.52,57709,15,21.6,22.7,17,11.7,35.5,38.3,43.3,6.4,90.4,0,Highest,Highest
+16000US1271569,"The Hammocks CDP, Florida",City,38.6,71.9,3.34,72195,7.2,8.8,14.5,10.1,10.9,64.7,29.5,33.4,1.4,97.4,0,Medium_Low,Highest
+16000US1271625,"The Villages CDP, Florida",City,72.6,1.4,1.83,68233,1.4, , , , ,66.4,5.9,3.1,21.1,92.9,0,Lowest, 
+16000US1272145,"Town 'n' Country CDP, Florida",City,36.1,45.8,2.96,56400,9.3,13.7,18.6,14,17.4,43.9,35.1,37.3,4.6,94.6,0,Medium_Low,Highest
+16000US1275812,"Wellington village, Florida",City,44.6,33.7,2.91,85886,6,3.9,5,4.7,9.5,61.5,25.5,29,4.7,95.5,0,Lowest,Medium
+16000US1275875,"Wesley Chapel CDP, Florida",City,37.6,44.6,3.03,89507,6.5,13.6,6.6,8.5,8.3,63.4,20.1,27.5,9.8,97.6,0,Lowest,Medium
+16000US1276582,"Weston city, Florida",City,42.3,50.5,3.49,125105,2.7,.3,12.6,2.5,4.4,77.2,27.6,25,3, ,0,Lowest,Lowest
+16000US1276600,"West Palm Beach city, Florida",City,36.9,55.2,2.61,51089,14.6,28.4,13.9,16,15.2,35.6,40.6,46.2,6.1,86.4,0,Highest,Highest
